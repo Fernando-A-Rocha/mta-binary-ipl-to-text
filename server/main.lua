@@ -58,7 +58,7 @@ local function parseHeader(binaryData)
         unknown3 = readInt32(binaryData, 17),
         parkedCars = readInt32(binaryData, 21),
         unknown4 = readInt32(binaryData, 25),
-        offsetItemInstances = readInt32(binaryData, 29),
+        offsetItemInstances = readInt32(binaryData, 29), -- Should be 76
         unused1 = readInt32(binaryData, 33),
         offsetUnknown1 = readInt32(binaryData, 37),
         unused2 = readInt32(binaryData, 41),
@@ -82,16 +82,29 @@ local function parseBinaryIPL(binaryData)
         return {}
     end
 
-    local objects = {}
+    local objects, cars = {}, {}
+
     local offset = header.offsetItemInstances
     local objectSize = 40
-    
+
     for i = 1, header.itemInstances do
         if offset + objectSize > #binaryData then
             outputServerLog("Offset exceeds data length at object " .. i)
             break
         end
 
+        --[[
+            4b  - FLOAT    - PosX
+            4b  - FLOAT    - PosY
+            4b  - FLOAT    - PosZ
+            4b  - FLOAT    - RotX
+            4b  - FLOAT    - RotY
+            4b  - FLOAT    - RotZ
+            4b  - FLOAT    - RotW
+            4b  - INT32    - Object ID
+            4b  - INT32    - (always 0) could be interior flag ? 
+            4b  - UINT32   - Flags
+        --]]
         local obj = {
             x = readFloat(binaryData, offset + 1),
             y = readFloat(binaryData, offset + 5),
@@ -108,12 +121,51 @@ local function parseBinaryIPL(binaryData)
         table.insert(objects, obj)
         offset = offset + objectSize
     end
+
+    if header.parkedCars > 0 then
+        offset = header.offsetParkedCars
+        local carSize = 48
+
+        for i = 1, header.parkedCars do
+            if offset + carSize > #binaryData then
+                outputServerLog("Offset exceeds data length at car " .. i)
+                break
+            end
+            --[[
+                4b  - FLOAT    - PosX
+                4b  - FLOAT    - PosY
+                4b  - FLOAT    - PosZ
+                4b  - FLOAT    - Angle (Around Z-Axis)
+                4b  - INT32    - Object ID (See Vehicle ID List)
+                28b - INT32[7] - Unknown flags (See IPL file specification)
+            --]]
+            local car = {
+                x = readFloat(binaryData, offset + 1),
+                y = readFloat(binaryData, offset + 5),
+                z = readFloat(binaryData, offset + 9),
+                angle = readFloat(binaryData, offset + 13),
+                id = readInt32(binaryData, offset + 17),
+                unknown = {
+                    readInt32(binaryData, offset + 21),
+                    readInt32(binaryData, offset + 25),
+                    readInt32(binaryData, offset + 29),
+                    readInt32(binaryData, offset + 33),
+                    readInt32(binaryData, offset + 37),
+                    readInt32(binaryData, offset + 41),
+                    readInt32(binaryData, offset + 45)
+                }
+            }
+
+            table.insert(cars, car)
+            offset = offset + carSize
+        end
+    end
     
-    return objects
+    return objects, cars
 end
 
 -- Function to convert objects to text IPL format
-local function convertToTextIPL(objects)
+local function convertToTextIPL(objects, cars)
     local lines = {"inst"}
     
     for _, obj in ipairs(objects) do
@@ -126,6 +178,21 @@ local function convertToTextIPL(objects)
     end
     
     table.insert(lines, "end")
+
+    if #cars > 0 then
+
+        table.insert(lines, "cars")
+
+        for _, car in ipairs(cars) do
+            local line = string.format(
+                "%.6f, %.6f, %.6f, %.6f, %d, %d, %d, %d, %d, %d, %d",
+                car.x, car.y, car.z, car.angle, car.id, car.unknown[1], car.unknown[2], car.unknown[3], car.unknown[4], car.unknown[5], car.unknown[6]
+            )
+            table.insert(lines, line)
+        end
+
+        table.insert(lines, "end")
+    end
     
     return table.concat(lines, "\n")
 end
@@ -149,8 +216,8 @@ local function convertBinaryIPLtoText(inputFilePath, outputFilePath)
     local binaryData = readBinaryIPL(inputFilePath)
     if not binaryData then return end
     
-    local objects = parseBinaryIPL(binaryData)
-    local textData = convertToTextIPL(objects)
+    local objects, cars = parseBinaryIPL(binaryData)
+    local textData = convertToTextIPL(objects, cars)
     
     return writeTextIPL(outputFilePath, textData)
 end
@@ -176,12 +243,12 @@ local function convertOneBinaryIPL(executor, command, inputFileName)
         return
     end
     if fileExists(outputFilePath) then
-        outputMsg("Output file already exists (will be replaced): " .. outputFilePath, executor, 255, 126, 0)
+        -- outputMsg("Output file already exists (will be replaced): " .. outputFilePath, executor, 255, 126, 0)
     end
     
     if convertBinaryIPLtoText(inputFilePath, outputFilePath) then
-        outputMsg("Binary IPL file converted successfully!", executor, 0, 255, 0)
-        outputMsg("Output file: " .. outputFilePath, executor)
+        -- outputMsg("Binary IPL file converted successfully!", executor, 0, 255, 0)
+        -- outputMsg("Output file: " .. outputFilePath, executor)
     else
         outputMsg("Failed to convert binary IPL file: " .. inputFilePath, executor, 255, 0, 0)
     end
@@ -196,5 +263,7 @@ local function convertAllBinaryIPLs(executor)
     for _, fileName in pairs(pathListDir("input" or {})) do
         convertOneBinaryIPL(executor, "binaryipl", fileName)
     end
+
+    outputMsg("Finished converting binary IPL files in 'input' folder!", executor, 0, 255, 0)
 end
 addCommandHandler("binaryiplall", convertAllBinaryIPLs, false, false)
