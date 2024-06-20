@@ -24,7 +24,11 @@ end
 local function readInt32(data, offset)
     if offset + 3 > #data then return nil end
     local b1, b2, b3, b4 = string.byte(data, offset, offset + 3)
-    return b1 + b2 * 256 + b3 * 65536 + b4 * 16777216
+    local value = b1 + b2 * 256 + b3 * 65536 + b4 * 16777216
+    if (value >= 0x80000000) then
+        value = -((0xFFFFFFFF - value) + 1)
+    end
+    return value
 end
 
 -- Function to read a float from a binary string (assuming little-endian format)
