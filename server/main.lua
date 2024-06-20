@@ -117,9 +117,10 @@ local function convertToTextIPL(objects)
     local lines = {"inst"}
     
     for _, obj in ipairs(objects) do
+        local modelName = MODEL_NAMES[obj.id] or "unknown"
         local line = string.format(
             "%d, %s, %d, %.6f, %.6f, %.6f, %.6f, %.6f, %.6f, %.6f, %d",
-            obj.id, "placeholder_modelname", obj.interiorFlag, obj.x, obj.y, obj.z, obj.rx, obj.ry, obj.rz, obj.rw, -1 -- Assuming LOD is always -1
+            obj.id, modelName, obj.interiorFlag, obj.x, obj.y, obj.z, obj.rx, obj.ry, obj.rz, obj.rw, -1 -- Assuming LOD is always -1
         )
         table.insert(lines, line)
     end
