@@ -170,7 +170,7 @@ end
 
 -- Function to convert objects to text IPL format
 local function convertToTextIPL(objects, cars)
-    local lines = {"inst"}
+    local lines = {"# IPL generated with mta-binary-ipl-to-text by Nando", "inst"}
     
     for _, obj in ipairs(objects) do
         local modelName = MODEL_NAMES[obj.id] or "unknown"
