@@ -163,17 +163,13 @@ local function outputMsg(msg, executor, r, g, b)
     end
 end
 
-addCommandHandler("binaryipl", function(executor, command, inputFilePath, outputFilePath)
-    if not inputFilePath then
-        outputMsg("Syntax: /" .. command .. " <input file name> <(OPTIONAL) output file name>", executor)
+local function convertOneBinaryIPL(executor, command, inputFileName)
+    if not inputFileName then
+        outputMsg("Syntax: /" .. command .. " <input file name>", executor)
         return
     end
-    if outputFilePath then
-        outputFilePath = "output/"..outputFilePath
-    else
-        outputFilePath = "output/"..inputFilePath
-    end
-    inputFilePath = "input/"..inputFilePath
+    local outputFilePath = "output/"..inputFileName
+    local inputFilePath = "input/"..inputFileName
 
     if not fileExists(inputFilePath) then
         outputMsg("File not found: " .. inputFilePath, executor, 255, 0, 0)
@@ -189,4 +185,16 @@ addCommandHandler("binaryipl", function(executor, command, inputFilePath, output
     else
         outputMsg("Failed to convert binary IPL file: " .. inputFilePath, executor, 255, 0, 0)
     end
-end)
+end
+addCommandHandler("binaryipl", convertOneBinaryIPL, false, false)
+
+local function convertAllBinaryIPLs(executor)
+    if not pathIsDirectory("input") then
+        outputMsg("Folder 'input' not found", executor, 255, 0, 0)
+        return
+    end
+    for _, fileName in pairs(pathListDir("input" or {})) do
+        convertOneBinaryIPL(executor, "binaryipl", fileName)
+    end
+end
+addCommandHandler("binaryiplall", convertAllBinaryIPLs, false, false)

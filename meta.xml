@@ -1,3 +1,4 @@
 <meta>
     <script src="server/*.lua" type="server"/>
+    <min_mta_version client="1.6.0-9.22505.0" server="1.6.0-9.22505.0"></min_mta_version>
 </meta>
