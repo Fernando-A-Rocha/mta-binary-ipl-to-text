@@ -107,7 +107,7 @@ local function parseBinaryIPL(binaryData)
             4b  - FLOAT    - RotW
             4b  - INT32    - Object ID
             4b  - INT32    - (always 0) could be interior flag ? 
-            4b  - UINT32   - Flags
+            4b  - UINT32   - Flags: supposedly LOD index
         --]]
         local obj = {
             x = readFloat(binaryData, offset + 1),
@@ -176,7 +176,7 @@ local function convertToTextIPL(objects, cars)
         local modelName = MODEL_NAMES[obj.id] or "unknown"
         local line = string.format(
             "%d, %s, %d, %.6f, %.6f, %.6f, %.6f, %.6f, %.6f, %.6f, %d",
-            obj.id, modelName, obj.interiorFlag, obj.x, obj.y, obj.z, obj.rx, obj.ry, obj.rz, obj.rw, -1 -- Assuming LOD is always -1
+            obj.id, modelName, obj.interiorFlag, obj.x, obj.y, obj.z, obj.rx, obj.ry, obj.rz, obj.rw, obj.flags
         )
         table.insert(lines, line)
     end
