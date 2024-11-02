@@ -251,8 +251,8 @@ local function convertOneBinaryIPL(executor, command, inputFileName)
     end
     
     if convertBinaryIPLtoText(inputFilePath, outputFilePath) then
-        -- outputMsg("Binary IPL file converted successfully!", executor, 0, 255, 0)
-        -- outputMsg("Output file: " .. outputFilePath, executor)
+        outputMsg("Binary IPL file converted successfully!", executor, 0, 255, 0)
+        outputMsg("Output file: " .. outputFilePath, executor)
     else
         outputMsg("Failed to convert binary IPL file: " .. inputFilePath, executor, 255, 0, 0)
     end
