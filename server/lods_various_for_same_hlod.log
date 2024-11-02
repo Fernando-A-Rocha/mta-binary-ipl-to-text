@@ -1,0 +1,1034 @@
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 16274 (oilderricklod02) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 16275 (oilderricklod03) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 16276 (oilderricklod04) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 16277 (oilderricklod05) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 16278 (oilderricklod06) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 16279 (oilderricklod07) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3682 (lod_refinerybase) to HLOD 3673 (laxrf_refinerybase), which already has LLOD 3682 (lod_refinerybase) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3682 (lod_refinerybase) to HLOD 3673 (laxrf_refinerybase), which already has LLOD 3682 (lod_refinerybase) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3683 (lod_indust1las) to HLOD 3636 (indust1las_las), which already has LLOD 3683 (lod_indust1las) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3683 (lod_indust1las) to HLOD 3636 (indust1las_las), which already has LLOD 3683 (lod_indust1las) - countn2  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3291 (lod_ref_oiltank) to HLOD 3255 (ref_oiltank01), which already has LLOD 3291 (lod_ref_oiltank) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3291 (lod_ref_oiltank) to HLOD 3255 (ref_oiltank01), which already has LLOD 3291 (lod_ref_oiltank) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3290 (lod_refchimny01) to HLOD 3256 (refchimny01), which already has LLOD 3290 (lod_refchimny01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3289 (lod_refthinchim1) to HLOD 3258 (refthinchim1), which already has LLOD 3289 (lod_refthinchim1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3289 (lod_refthinchim1) to HLOD 3258 (refthinchim1), which already has LLOD 3289 (lod_refthinchim1) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3288 (lod_refinerybox1) to HLOD 3257 (refinerybox1), which already has LLOD 3288 (lod_refinerybox1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3683 (lod_indust1las) to HLOD 3636 (indust1las_las), which already has LLOD 3683 (lod_indust1las) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3289 (lod_refthinchim1) to HLOD 3258 (refthinchim1), which already has LLOD 3289 (lod_refthinchim1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3332 (cxrf_lodwhbrig) to HLOD 3331 (cxrf_whitebrig), which already has LLOD 3332 (cxrf_lodwhbrig) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3332 (cxrf_lodwhbrig) to HLOD 3331 (cxrf_whitebrig), which already has LLOD 3332 (cxrf_lodwhbrig) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3333 (cxrf_lodbriglg) to HLOD 3330 (cxrf_brigleg), which already has LLOD 3333 (cxrf_lodbriglg) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3333 (cxrf_lodbriglg) to HLOD 3330 (cxrf_brigleg), which already has LLOD 3333 (cxrf_lodbriglg) - countn2  [DUP x5]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3332 (cxrf_lodwhbrig) to HLOD 3331 (cxrf_whitebrig), which already has LLOD 3332 (cxrf_lodwhbrig) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3333 (cxrf_lodbriglg) to HLOD 3330 (cxrf_brigleg), which already has LLOD 3333 (cxrf_lodbriglg) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3333 (cxrf_lodbriglg) to HLOD 3330 (cxrf_brigleg), which already has LLOD 3333 (cxrf_lodbriglg) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3301 (lod_conhoos5) to HLOD 3284 (conhoos5), which already has LLOD 3301 (lod_conhoos5) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3301 (lod_conhoos5) to HLOD 3284 (conhoos5), which already has LLOD 3301 (lod_conhoos5) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3301 (lod_conhoos5) to HLOD 3284 (conhoos5), which already has LLOD 3301 (lod_conhoos5) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3347 (lod_airstrm_med_) to HLOD 3175 (sm_airstrm_med_), which already has LLOD 3347 (lod_airstrm_med_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3347 (lod_airstrm_med_) to HLOD 3175 (sm_airstrm_med_), which already has LLOD 3347 (lod_airstrm_med_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3343 (lodtrail2_01) to HLOD 3168 (trailer2_01), which already has LLOD 3343 (lodtrail2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3343 (lodtrail2_01) to HLOD 3168 (trailer2_01), which already has LLOD 3343 (lodtrail2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3343 (lodtrail2_01) to HLOD 3168 (trailer2_01), which already has LLOD 3343 (lodtrail2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3343 (lodtrail2_01) to HLOD 3168 (trailer2_01), which already has LLOD 3343 (lodtrail2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3338 (pylon_lodbig1_) to HLOD 3244 (pylon_big1_), which already has LLOD 3338 (pylon_lodbig1_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3338 (pylon_lodbig1_) to HLOD 3244 (pylon_big1_), which already has LLOD 3338 (pylon_lodbig1_) - countn2  [DUP x24]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3371 (lod_d_bighus1_) to HLOD 3305 (des_bighus01), which already has LLOD 3371 (lod_d_bighus1_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3371 (lod_d_bighus1_) to HLOD 3305 (des_bighus01), which already has LLOD 3371 (lod_d_bighus1_) - countn2  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3373 (lod_d_bighus3_) to HLOD 3303 (des_bighus03), which already has LLOD 3373 (lod_d_bighus3_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3373 (lod_d_bighus3_) to HLOD 3303 (des_bighus03), which already has LLOD 3373 (lod_d_bighus3_) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3366 (lod_mil_hangar1_) to HLOD 3268 (mil_hangar1_), which already has LLOD 3366 (lod_mil_hangar1_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3366 (lod_mil_hangar1_) to HLOD 3268 (mil_hangar1_), which already has LLOD 3366 (lod_mil_hangar1_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3368 (lod_bnyd_blk2_) to HLOD 3270 (bonyrd_block2_), which already has LLOD 3368 (lod_bnyd_blk2_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3368 (lod_bnyd_blk2_) to HLOD 3270 (bonyrd_block2_), which already has LLOD 3368 (lod_bnyd_blk2_) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3369 (lod_bnyd_blk1_) to HLOD 3269 (bonyrd_block1_), which already has LLOD 3369 (lod_bnyd_blk1_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3369 (lod_bnyd_blk1_) to HLOD 3269 (bonyrd_block1_), which already has LLOD 3369 (lod_bnyd_blk1_) - countn2  [DUP x6]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3367 (lod_bnyd_blk3_) to HLOD 3271 (bonyrd_block3_), which already has LLOD 3367 (lod_bnyd_blk3_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3367 (lod_bnyd_blk3_) to HLOD 3271 (bonyrd_block3_), which already has LLOD 3367 (lod_bnyd_blk3_) - countn2  [DUP x7]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3296 (lod_oiltank) to HLOD 3287 (cxrf_oiltank), which already has LLOD 3296 (lod_oiltank) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3295 (lod_watertwr) to HLOD 3286 (cxrf_watertwr), which already has LLOD 3295 (lod_watertwr) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3295 (lod_watertwr) to HLOD 3286 (cxrf_watertwr), which already has LLOD 3295 (lod_watertwr) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3382 (cxrf_lod_rdrch) to HLOD 3381 (cxrf_redarch), which already has LLOD 3382 (cxrf_lod_rdrch) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3382 (cxrf_lod_rdrch) to HLOD 3381 (cxrf_redarch), which already has LLOD 3382 (cxrf_lod_rdrch) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3372 (lod_d_bighus2_) to HLOD 3304 (des_bighus02), which already has LLOD 3372 (lod_d_bighus2_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3372 (lod_d_bighus2_) to HLOD 3303 (des_bighus03), which already has LLOD 3373 (lod_d_bighus3_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3372 (lod_d_bighus2_) to HLOD 3304 (des_bighus02), which already has LLOD 3372 (lod_d_bighus2_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3372 (lod_d_bighus2_) to HLOD 3304 (des_bighus02), which already has LLOD 3372 (lod_d_bighus2_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3372 (lod_d_bighus2_) to HLOD 3304 (des_bighus02), which already has LLOD 3372 (lod_d_bighus2_) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3428 (oilplodbitbase) to HLOD 3426 (nt_noddonkbase), which already has LLOD 3428 (oilplodbitbase) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3428 (oilplodbitbase) to HLOD 3426 (nt_noddonkbase), which already has LLOD 3428 (oilplodbitbase) - countn2  [DUP x8]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3424 (lod_refcondens1) to HLOD 3259 (refcondens1), which already has LLOD 3424 (lod_refcondens1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3424 (lod_refcondens1) to HLOD 3259 (refcondens1), which already has LLOD 3424 (lod_refcondens1) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3343 (lodtrail2_01) to HLOD 3168 (trailer2_01), which already has LLOD 3343 (lodtrail2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3344 (lodtrail5_01) to HLOD 3171 (trailer5_01), which already has LLOD 3344 (lodtrail5_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3344 (lodtrail5_01) to HLOD 3171 (trailer5_01), which already has LLOD 3344 (lodtrail5_01) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3301 (lod_conhoos5) to HLOD 3284 (conhoos5), which already has LLOD 3301 (lod_conhoos5) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3301 (lod_conhoos5) to HLOD 3284 (conhoos5), which already has LLOD 3301 (lod_conhoos5) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3295 (lod_watertwr) to HLOD 3286 (cxrf_watertwr), which already has LLOD 3295 (lod_watertwr) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3347 (lod_airstrm_med_) to HLOD 3175 (sm_airstrm_med_), which already has LLOD 3347 (lod_airstrm_med_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3347 (lod_airstrm_med_) to HLOD 3175 (sm_airstrm_med_), which already has LLOD 3347 (lod_airstrm_med_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3301 (lod_conhoos5) to HLOD 3284 (conhoos5), which already has LLOD 3301 (lod_conhoos5) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3301 (lod_conhoos5) to HLOD 3284 (conhoos5), which already has LLOD 3301 (lod_conhoos5) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3343 (lodtrail2_01) to HLOD 3168 (trailer2_01), which already has LLOD 3343 (lodtrail2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3343 (lodtrail2_01) to HLOD 3168 (trailer2_01), which already has LLOD 3343 (lodtrail2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3344 (lodtrail5_01) to HLOD 3171 (trailer5_01), which already has LLOD 3344 (lodtrail5_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3344 (lodtrail5_01) to HLOD 3171 (trailer5_01), which already has LLOD 3344 (lodtrail5_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3376 (lodce_dblbarn01) to HLOD 3375 (ce_dblbarn01), which already has LLOD 3376 (lodce_dblbarn01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3376 (lodce_dblbarn01) to HLOD 3375 (ce_dblbarn01), which already has LLOD 3376 (lodce_dblbarn01) - countrye  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3377 (lodce_beerpile01) to HLOD 3378 (ce_beerpile01), which already has LLOD 3377 (lodce_beerpile01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3377 (lodce_beerpile01) to HLOD 3378 (ce_beerpile01), which already has LLOD 3377 (lodce_beerpile01) - countrye  [DUP x6]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3405 (lodsw_logcover) to HLOD 3403 (sw_logcover), which already has LLOD 3405 (lodsw_logcover) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3405 (lodsw_logcover) to HLOD 3403 (sw_logcover), which already has LLOD 3405 (lodsw_logcover) - countrye  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3404 (lodsw_tempbarn01) to HLOD 3402 (sw_tempbarn01), which already has LLOD 3404 (lodsw_tempbarn01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3404 (lodsw_tempbarn01) to HLOD 3402 (sw_tempbarn01), which already has LLOD 3404 (lodsw_tempbarn01) - countrye  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye  [DUP x68]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3413 (lodcunterb07) to HLOD 3412 (cunterb03), which already has LLOD 3413 (lodcunterb07) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3413 (lodcunterb07) to HLOD 3412 (cunterb03), which already has LLOD 3413 (lodcunterb07) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3420 (lodce_logbarn02) to HLOD 3419 (ce_logbarn02), which already has LLOD 3420 (lodce_logbarn02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3420 (lodce_logbarn02) to HLOD 3419 (ce_logbarn02), which already has LLOD 3420 (lodce_logbarn02) - countrye  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3423 (lodce_loghut02) to HLOD 3415 (ce_loghut1), which already has LLOD 3423 (lodce_loghut02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3421 (lodce_oldhut1) to HLOD 3414 (ce_oldhut1), which already has LLOD 3421 (lodce_oldhut1) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3422 (lodce_oldhut02) to HLOD 3418 (ce_oldhut02), which already has LLOD 3422 (lodce_oldhut02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3421 (lodce_oldhut1) to HLOD 3414 (ce_oldhut1), which already has LLOD 3421 (lodce_oldhut1) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3326 (lodswbigburb01) to HLOD 3317 (sw_bigburb_01), which already has LLOD 3326 (lodswbigburb01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3326 (lodswbigburb01) to HLOD 3317 (sw_bigburb_01), which already has LLOD 3326 (lodswbigburb01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3327 (lodswbigburb02) to HLOD 3316 (sw_bigburb_02), which already has LLOD 3327 (lodswbigburb02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3326 (lodswbigburb01) to HLOD 3317 (sw_bigburb_01), which already has LLOD 3326 (lodswbigburb01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3329 (lodswbigburb04) to HLOD 3314 (sw_bigburb_04), which already has LLOD 3329 (lodswbigburb04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3321 (lodswburbhaus01) to HLOD 3307 (swburbhaus01), which already has LLOD 3321 (lodswburbhaus01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3321 (lodswburbhaus01) to HLOD 3307 (swburbhaus01), which already has LLOD 3321 (lodswburbhaus01) - countrye  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3318 (lodswburbhaus04) to HLOD 3309 (swburbhaus04), which already has LLOD 3318 (lodswburbhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3321 (lodswburbhaus01) to HLOD 3307 (swburbhaus01), which already has LLOD 3321 (lodswburbhaus01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3323 (lodswoodhaus03) to HLOD 3313 (sw_woodhaus03), which already has LLOD 3323 (lodswoodhaus03) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3323 (lodswoodhaus03) to HLOD 3313 (sw_woodhaus03), which already has LLOD 3323 (lodswoodhaus03) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3324 (lodswoodhaus02) to HLOD 3312 (sw_woodhaus02), which already has LLOD 3324 (lodswoodhaus02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3325 (lodswoodhaus04) to HLOD 3310 (sw_woodhaus04), which already has LLOD 3325 (lodswoodhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3324 (lodswoodhaus02) to HLOD 3312 (sw_woodhaus02), which already has LLOD 3324 (lodswoodhaus02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3326 (lodswbigburb01) to HLOD 3317 (sw_bigburb_01), which already has LLOD 3326 (lodswbigburb01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3327 (lodswbigburb02) to HLOD 3316 (sw_bigburb_02), which already has LLOD 3327 (lodswbigburb02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3329 (lodswbigburb04) to HLOD 3314 (sw_bigburb_04), which already has LLOD 3329 (lodswbigburb04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3329 (lodswbigburb04) to HLOD 3314 (sw_bigburb_04), which already has LLOD 3329 (lodswbigburb04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3318 (lodswburbhaus04) to HLOD 3309 (swburbhaus04), which already has LLOD 3318 (lodswburbhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3321 (lodswburbhaus01) to HLOD 3307 (swburbhaus01), which already has LLOD 3321 (lodswburbhaus01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3321 (lodswburbhaus01) to HLOD 3307 (swburbhaus01), which already has LLOD 3321 (lodswburbhaus01) - countrye  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3322 (lodswoodhaus01a) to HLOD 3311 (sw_woodhaus01a), which already has LLOD 3322 (lodswoodhaus01a) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3325 (lodswoodhaus04) to HLOD 3310 (sw_woodhaus04), which already has LLOD 3325 (lodswoodhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3324 (lodswoodhaus02) to HLOD 3312 (sw_woodhaus02), which already has LLOD 3324 (lodswoodhaus02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3325 (lodswoodhaus04) to HLOD 3310 (sw_woodhaus04), which already has LLOD 3325 (lodswoodhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3329 (lodswbigburb04) to HLOD 3314 (sw_bigburb_04), which already has LLOD 3329 (lodswbigburb04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3327 (lodswbigburb02) to HLOD 3316 (sw_bigburb_02), which already has LLOD 3327 (lodswbigburb02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3329 (lodswbigburb04) to HLOD 3314 (sw_bigburb_04), which already has LLOD 3329 (lodswbigburb04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3321 (lodswburbhaus01) to HLOD 3307 (swburbhaus01), which already has LLOD 3321 (lodswburbhaus01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3318 (lodswburbhaus04) to HLOD 3309 (swburbhaus04), which already has LLOD 3318 (lodswburbhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3322 (lodswoodhaus01a) to HLOD 3311 (sw_woodhaus01a), which already has LLOD 3322 (lodswoodhaus01a) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3323 (lodswoodhaus03) to HLOD 3313 (sw_woodhaus03), which already has LLOD 3323 (lodswoodhaus03) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3323 (lodswoodhaus03) to HLOD 3313 (sw_woodhaus03), which already has LLOD 3323 (lodswoodhaus03) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3326 (lodswbigburb01) to HLOD 3317 (sw_bigburb_01), which already has LLOD 3326 (lodswbigburb01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3320 (lodswburbhaus02) to HLOD 3306 (swburbhaus02), which already has LLOD 3320 (lodswburbhaus02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3321 (lodswburbhaus01) to HLOD 3307 (swburbhaus01), which already has LLOD 3321 (lodswburbhaus01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3324 (lodswoodhaus02) to HLOD 3312 (sw_woodhaus02), which already has LLOD 3324 (lodswoodhaus02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3321 (lodswburbhaus01) to HLOD 3307 (swburbhaus01), which already has LLOD 3321 (lodswburbhaus01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3324 (lodswoodhaus02) to HLOD 3312 (sw_woodhaus02), which already has LLOD 3324 (lodswoodhaus02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3328 (lodswbigburb03) to HLOD 3315 (sw_bigburb_03), which already has LLOD 3328 (lodswbigburb03) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3328 (lodswbigburb03) to HLOD 3315 (sw_bigburb_03), which already has LLOD 3328 (lodswbigburb03) - countrye  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3319 (lodswburbhaus03) to HLOD 3308 (swburbhaus03), which already has LLOD 3319 (lodswburbhaus03) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3319 (lodswburbhaus03) to HLOD 3308 (swburbhaus03), which already has LLOD 3319 (lodswburbhaus03) - countrye  [DUP x9]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3301 (lod_conhoos5) to HLOD 3284 (conhoos5), which already has LLOD 3301 (lod_conhoos5) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3297 (lod_conhoos1) to HLOD 3242 (conhoos1), which already has LLOD 3297 (lod_conhoos1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3338 (pylon_lodbig1_) to HLOD 3244 (pylon_big1_), which already has LLOD 3338 (pylon_lodbig1_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3338 (pylon_lodbig1_) to HLOD 3244 (pylon_big1_), which already has LLOD 3338 (pylon_lodbig1_) - countn2  [DUP x9]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3347 (lod_airstrm_med_) to HLOD 3175 (sm_airstrm_med_), which already has LLOD 3347 (lod_airstrm_med_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2  [DUP x5]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2  [DUP x5]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3343 (lodtrail2_01) to HLOD 3168 (trailer2_01), which already has LLOD 3343 (lodtrail2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3343 (lodtrail2_01) to HLOD 3168 (trailer2_01), which already has LLOD 3343 (lodtrail2_01) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3344 (lodtrail5_01) to HLOD 3171 (trailer5_01), which already has LLOD 3344 (lodtrail5_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3344 (lodtrail5_01) to HLOD 3171 (trailer5_01), which already has LLOD 3344 (lodtrail5_01) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3357 (cxrf_lod_savhs1_) to HLOD 3355 (cxrf_savhus1_), which already has LLOD 3357 (cxrf_lod_savhs1_) - countryN
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3365 (lod_cxf_payspy_) to HLOD 3292 (cxf_payspray_), which already has LLOD 3365 (lod_cxf_payspy_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3322 (lodswoodhaus01a) to HLOD 3311 (sw_woodhaus01a), which already has LLOD 3322 (lodswoodhaus01a) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3323 (lodswoodhaus03) to HLOD 3313 (sw_woodhaus03), which already has LLOD 3323 (lodswoodhaus03) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3325 (lodswoodhaus04) to HLOD 3310 (sw_woodhaus04), which already has LLOD 3325 (lodswoodhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3324 (lodswoodhaus02) to HLOD 3312 (sw_woodhaus02), which already has LLOD 3324 (lodswoodhaus02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3325 (lodswoodhaus04) to HLOD 3310 (sw_woodhaus04), which already has LLOD 3325 (lodswoodhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3325 (lodswoodhaus04) to HLOD 3310 (sw_woodhaus04), which already has LLOD 3325 (lodswoodhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3323 (lodswoodhaus03) to HLOD 3313 (sw_woodhaus03), which already has LLOD 3323 (lodswoodhaus03) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3318 (lodswburbhaus04) to HLOD 3309 (swburbhaus04), which already has LLOD 3318 (lodswburbhaus04) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3320 (lodswburbhaus02) to HLOD 3306 (swburbhaus02), which already has LLOD 3320 (lodswburbhaus02) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3340 (lodtrail_lg1_01) to HLOD 3167 (trailer_large1_01), which already has LLOD 3340 (lodtrail_lg1_01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3340 (lodtrail_lg1_01) to HLOD 3167 (trailer_large1_01), which already has LLOD 3340 (lodtrail_lg1_01) - countrye  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3342 (lodtrail_lg4_01) to HLOD 3173 (trailer_large4_01), which already has LLOD 3342 (lodtrail_lg4_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3333 (cxrf_lodbriglg) to HLOD 3330 (cxrf_brigleg), which already has LLOD 3333 (cxrf_lodbriglg) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3332 (cxrf_lodwhbrig) to HLOD 3331 (cxrf_whitebrig), which already has LLOD 3332 (cxrf_lodwhbrig) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3332 (cxrf_lodwhbrig) to HLOD 3331 (cxrf_whitebrig), which already has LLOD 3332 (cxrf_lodwhbrig) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye  [DUP x88]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3358 (cxrf_lod_savhs2_) to HLOD 3356 (cxrf_savhus2_), which already has LLOD 3358 (cxrf_lod_savhs2_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye  [DUP x11]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3333 (cxrf_lodbriglg) to HLOD 3330 (cxrf_brigleg), which already has LLOD 3333 (cxrf_lodbriglg) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3333 (cxrf_lodbriglg) to HLOD 3330 (cxrf_brigleg), which already has LLOD 3333 (cxrf_lodbriglg) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 784 (lod_redwoodgrp) to HLOD 694 (sm_redwoodgrp), which already has LLOD 784 (lod_redwoodgrp) - countryS
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 784 (lod_redwoodgrp) to HLOD 694 (sm_redwoodgrp), which already has LLOD 784 (lod_redwoodgrp) - countryS  [DUP x59]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3682 (lod_refinerybase) to HLOD 3673 (laxrf_refinerybase), which already has LLOD 3682 (lod_refinerybase) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye  [DUP x96]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3338 (pylon_lodbig1_) to HLOD 3244 (pylon_big1_), which already has LLOD 3338 (pylon_lodbig1_) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3338 (pylon_lodbig1_) to HLOD 3244 (pylon_big1_), which already has LLOD 3338 (pylon_lodbig1_) - countn2  [DUP x42]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 785 (lod_vbg_fir_co) to HLOD 791 (vbg_fir_copse), which already has LLOD 785 (lod_vbg_fir_co) - countrye  [DUP x19]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 2786 (lodcj_slot_bank) to HLOD 2785 (cj_slot_bank), which already has LLOD 2786 (lodcj_slot_bank) - int_veg
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 2786 (lodcj_slot_bank) to HLOD 2785 (cj_slot_bank), which already has LLOD 2786 (lodcj_slot_bank) - int_veg  [DUP x34]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3559 (lodpmedhos5_lae) to HLOD 3558 (compmedhos5_lae), which already has LLOD 3559 (lodpmedhos5_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3559 (lodpmedhos5_lae) to HLOD 3558 (compmedhos5_lae), which already has LLOD 3559 (lodpmedhos5_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3560 (lodpmedhos4_lae) to HLOD 3557 (compmedhos4_lae), which already has LLOD 3560 (lodpmedhos4_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3559 (lodpmedhos5_lae) to HLOD 3558 (compmedhos5_lae), which already has LLOD 3559 (lodpmedhos5_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3560 (lodpmedhos4_lae) to HLOD 3557 (compmedhos4_lae), which already has LLOD 3560 (lodpmedhos4_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe  [DUP x6]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3559 (lodpmedhos5_lae) to HLOD 3558 (compmedhos5_lae), which already has LLOD 3559 (lodpmedhos5_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3559 (lodpmedhos5_lae) to HLOD 3558 (compmedhos5_lae), which already has LLOD 3559 (lodpmedhos5_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3560 (lodpmedhos4_lae) to HLOD 3557 (compmedhos4_lae), which already has LLOD 3560 (lodpmedhos4_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3560 (lodpmedhos4_lae) to HLOD 3557 (compmedhos4_lae), which already has LLOD 3560 (lodpmedhos4_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3721 (lodnphouse04_lax) to HLOD 3641 (glenphouse04_lax), which already has LLOD 3721 (lodnphouse04_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3721 (lodnphouse04_lax) to HLOD 3641 (glenphouse04_lax), which already has LLOD 3721 (lodnphouse04_lax) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3720 (lodnphouse03_lax) to HLOD 3642 (glenphouse03_lax), which already has LLOD 3720 (lodnphouse03_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3720 (lodnphouse03_lax) to HLOD 3642 (glenphouse03_lax), which already has LLOD 3720 (lodnphouse03_lax) - LAe  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3719 (lodnphouse02_lax) to HLOD 3640 (glenphouse02_lax), which already has LLOD 3719 (lodnphouse02_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3720 (lodnphouse03_lax) to HLOD 3642 (glenphouse03_lax), which already has LLOD 3720 (lodnphouse03_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3718 (lodnphouse01_lax) to HLOD 3639 (glenphouse01_lax), which already has LLOD 3718 (lodnphouse01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3720 (lodnphouse03_lax) to HLOD 3642 (glenphouse03_lax), which already has LLOD 3720 (lodnphouse03_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3645 (lodebuild01_lax) to HLOD 3644 (idlebuild01_lax), which already has LLOD 3645 (lodebuild01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3662 (lodjects01_lax) to HLOD 3661 (projects01_lax), which already has LLOD 3662 (lodjects01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3662 (lodjects01_lax) to HLOD 3661 (projects01_lax), which already has LLOD 3662 (lodjects01_lax) - LAe  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3720 (lodnphouse03_lax) to HLOD 3642 (glenphouse03_lax), which already has LLOD 3720 (lodnphouse03_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3718 (lodnphouse01_lax) to HLOD 3639 (glenphouse01_lax), which already has LLOD 3718 (lodnphouse01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3561 (lodpmedhos3_lae) to HLOD 3556 (compmedhos3_lae), which already has LLOD 3561 (lodpmedhos3_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3561 (lodpmedhos3_lae) to HLOD 3556 (compmedhos3_lae), which already has LLOD 3561 (lodpmedhos3_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3772 (lodpbigho2_lae) to HLOD 3580 (compbigho2_lae), which already has LLOD 3772 (lodpbigho2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3773 (lodranhus2_las) to HLOD 3616 (midranhus2_las), which already has LLOD 3773 (lodranhus2_las) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3772 (lodpbigho2_lae) to HLOD 3580 (compbigho2_lae), which already has LLOD 3772 (lodpbigho2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3774 (lodranhus_las) to HLOD 3617 (midranhus_las), which already has LLOD 3774 (lodranhus_las) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3561 (lodpmedhos3_lae) to HLOD 3556 (compmedhos3_lae), which already has LLOD 3561 (lodpmedhos3_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3772 (lodpbigho2_lae) to HLOD 3580 (compbigho2_lae), which already has LLOD 3772 (lodpbigho2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3560 (lodpmedhos4_lae) to HLOD 3557 (compmedhos4_lae), which already has LLOD 3560 (lodpmedhos4_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3560 (lodpmedhos4_lae) to HLOD 3557 (compmedhos4_lae), which already has LLOD 3560 (lodpmedhos4_lae) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3647 (lodganghous02_lax) to HLOD 3648 (ganghous02_lax), which already has LLOD 3647 (lodganghous02_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3647 (lodganghous02_lax) to HLOD 3648 (ganghous02_lax), which already has LLOD 3647 (lodganghous02_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3656 (lodganghous03_lax) to HLOD 3655 (ganghous03_lax), which already has LLOD 3656 (lodganghous03_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3656 (lodganghous03_lax) to HLOD 3655 (ganghous03_lax), which already has LLOD 3656 (lodganghous03_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3647 (lodganghous02_lax) to HLOD 3648 (ganghous02_lax), which already has LLOD 3647 (lodganghous02_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3647 (lodganghous02_lax) to HLOD 3648 (ganghous02_lax), which already has LLOD 3647 (lodganghous02_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3652 (lod1bchapta1_lax) to HLOD 3653 (beachaparta1_lax), which already has LLOD 3652 (lod1bchapta1_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3652 (lod1bchapta1_lax) to HLOD 3653 (beachaparta1_lax), which already has LLOD 3652 (lod1bchapta1_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3695 (lodcompproj_lae2) to HLOD 3584 (compproj01_la), which already has LLOD 3695 (lodcompproj_lae2) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3695 (lodcompproj_lae2) to HLOD 3584 (compproj01_la), which already has LLOD 3695 (lodcompproj_lae2) - LAe2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3696 (lodproject2lae2) to HLOD 3697 (project2lae2), which already has LLOD 3696 (lodproject2lae2) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3696 (lodproject2lae2) to HLOD 3697 (project2lae2), which already has LLOD 3696 (lodproject2lae2) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3699 (lodbarrio3blae2) to HLOD 3698 (barrio3b_lae), which already has LLOD 3699 (lodbarrio3blae2) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3699 (lodbarrio3blae2) to HLOD 3698 (barrio3b_lae), which already has LLOD 3699 (lodbarrio3blae2) - LAe2  [DUP x8]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3656 (lodganghous03_lax) to HLOD 3655 (ganghous03_lax), which already has LLOD 3656 (lodganghous03_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3656 (lodganghous03_lax) to HLOD 3655 (ganghous03_lax), which already has LLOD 3656 (lodganghous03_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3703 (lodbarrio6blae2) to HLOD 3702 (barrio6b_lae2), which already has LLOD 3703 (lodbarrio6blae2) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3705 (lodbarrio6a_lae2) to HLOD 3704 (barrio6a_lae2), which already has LLOD 3705 (lodbarrio6a_lae2) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3705 (lodbarrio6a_lae2) to HLOD 3704 (barrio6a_lae2), which already has LLOD 3705 (lodbarrio6a_lae2) - LAe2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3650 (lodganghous04_lax) to HLOD 3651 (ganghous04_lax), which already has LLOD 3650 (lodganghous04_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3650 (lodganghous04_lax) to HLOD 3651 (ganghous04_lax), which already has LLOD 3650 (lodganghous04_lax) - LAe2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3706 (lodgnghos05_lax) to HLOD 3646 (ganghous05_lax), which already has LLOD 3706 (lodgnghos05_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3706 (lodgnghos05_lax) to HLOD 3646 (ganghous05_lax), which already has LLOD 3706 (lodgnghos05_lax) - LAe2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3695 (lodcompproj_lae2) to HLOD 3584 (compproj01_la), which already has LLOD 3695 (lodcompproj_lae2) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3559 (lodpmedhos5_lae) to HLOD 3558 (compmedhos5_lae), which already has LLOD 3559 (lodpmedhos5_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3559 (lodpmedhos5_lae) to HLOD 3558 (compmedhos5_lae), which already has LLOD 3559 (lodpmedhos5_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3706 (lodgnghos05_lax) to HLOD 3646 (ganghous05_lax), which already has LLOD 3706 (lodgnghos05_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3561 (lodpmedhos3_lae) to HLOD 3556 (compmedhos3_lae), which already has LLOD 3561 (lodpmedhos3_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3706 (lodgnghos05_lax) to HLOD 3646 (ganghous05_lax), which already has LLOD 3706 (lodgnghos05_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3706 (lodgnghos05_lax) to HLOD 3646 (ganghous05_lax), which already has LLOD 3706 (lodgnghos05_lax) - LAe2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3562 (lodpmedhos1_lae) to HLOD 3582 (compmedhos1_lae), which already has LLOD 3562 (lodpmedhos1_lae) - LAe  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3563 (lodpmedhos2_lae) to HLOD 3555 (compmedhos2_lae), which already has LLOD 3563 (lodpmedhos2_lae) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3561 (lodpmedhos3_lae) to HLOD 3556 (compmedhos3_lae), which already has LLOD 3561 (lodpmedhos3_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3561 (lodpmedhos3_lae) to HLOD 3556 (compmedhos3_lae), which already has LLOD 3561 (lodpmedhos3_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3647 (lodganghous02_lax) to HLOD 3648 (ganghous02_lax), which already has LLOD 3647 (lodganghous02_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3647 (lodganghous02_lax) to HLOD 3648 (ganghous02_lax), which already has LLOD 3647 (lodganghous02_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3560 (lodpmedhos4_lae) to HLOD 3557 (compmedhos4_lae), which already has LLOD 3560 (lodpmedhos4_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3559 (lodpmedhos5_lae) to HLOD 3558 (compmedhos5_lae), which already has LLOD 3559 (lodpmedhos5_lae) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3592 (lodpfukhouse3) to HLOD 3589 (compfukhouse3), which already has LLOD 3592 (lodpfukhouse3) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3592 (lodpfukhouse3) to HLOD 3589 (compfukhouse3), which already has LLOD 3592 (lodpfukhouse3) - LAe2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3766 (lodtcenewhillhus03) to HLOD 3764 (tcenewhillhus02), which already has LLOD 3766 (lodtcenewhillhus03) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3728 (lodhillhouse10_la) to HLOD 3613 (hillhouse10_la), which already has LLOD 3728 (lodhillhouse10_la) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3340 (lodtrail_lg1_01) to HLOD 3167 (trailer_large1_01), which already has LLOD 3340 (lodtrail_lg1_01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3344 (lodtrail5_01) to HLOD 3171 (trailer5_01), which already has LLOD 3344 (lodtrail5_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3742 (lodcehillhse14) to HLOD 3741 (cehillhse14), which already has LLOD 3742 (lodcehillhse14) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3734 (lodbevman3_law2) to HLOD 3605 (bevman3_law2), which already has LLOD 3734 (lodbevman3_law2) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3740 (lodhillhouse13_la) to HLOD 3609 (hillhouse13_la), which already has LLOD 3740 (lodhillhouse13_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3766 (lodtcenewhillhus03) to HLOD 3764 (tcenewhillhus02), which already has LLOD 3766 (lodtcenewhillhus03) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3740 (lodhillhouse13_la) to HLOD 3609 (hillhouse13_la), which already has LLOD 3740 (lodhillhouse13_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3742 (lodcehillhse14) to HLOD 3741 (cehillhse14), which already has LLOD 3742 (lodcehillhse14) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3726 (lodhillhouse05_la) to HLOD 3602 (hillhouse05_la), which already has LLOD 3726 (lodhillhouse05_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3738 (lodnwlhusjm) to HLOD 3619 (nwlaw2husjm4_law2), which already has LLOD 3738 (lodnwlhusjm) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3730 (lodhillhouse08_la) to HLOD 3608 (hillhouse08_la), which already has LLOD 3730 (lodhillhouse08_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3340 (lodtrail_lg1_01) to HLOD 3167 (trailer_large1_01), which already has LLOD 3340 (lodtrail_lg1_01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3344 (lodtrail5_01) to HLOD 3171 (trailer5_01), which already has LLOD 3344 (lodtrail5_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3346 (lod_airstrm_sml_) to HLOD 3174 (sm_airstrm_sml_), which already has LLOD 3346 (lod_airstrm_sml_) - countryN
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3734 (lodbevman3_law2) to HLOD 3605 (bevman3_law2), which already has LLOD 3734 (lodbevman3_law2) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3731 (lodhillhouse01_la) to HLOD 3598 (hillhouse01_la), which already has LLOD 3731 (lodhillhouse01_la) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3740 (lodhillhouse13_la) to HLOD 3609 (hillhouse13_la), which already has LLOD 3740 (lodhillhouse13_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3768 (lodcenwlaw4) to HLOD 3762 (cenwlaw4), which already has LLOD 3768 (lodcenwlaw4) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3728 (lodhillhouse10_la) to HLOD 3613 (hillhouse10_la), which already has LLOD 3728 (lodhillhouse10_la) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3737 (lodbevmangar_law2) to HLOD 3604 (bevmangar_law2), which already has LLOD 3737 (lodbevmangar_law2) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3737 (lodbevmangar_law2) to HLOD 3604 (bevmangar_law2), which already has LLOD 3737 (lodbevmangar_law2) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3733 (lodbevman2_law2) to HLOD 3607 (bevman2_law2), which already has LLOD 3733 (lodbevman2_law2) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3730 (lodhillhouse08_la) to HLOD 3608 (hillhouse08_la), which already has LLOD 3730 (lodhillhouse08_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3728 (lodhillhouse10_la) to HLOD 3613 (hillhouse10_la), which already has LLOD 3728 (lodhillhouse10_la) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3340 (lodtrail_lg1_01) to HLOD 3167 (trailer_large1_01), which already has LLOD 3340 (lodtrail_lg1_01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3346 (lod_airstrm_sml_) to HLOD 3174 (sm_airstrm_sml_), which already has LLOD 3346 (lod_airstrm_sml_) - countryN
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3738 (lodnwlhusjm) to HLOD 3619 (nwlaw2husjm4_law2), which already has LLOD 3738 (lodnwlhusjm) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3737 (lodbevmangar_law2) to HLOD 3604 (bevmangar_law2), which already has LLOD 3737 (lodbevmangar_law2) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3729 (lodhillhouse09_la) to HLOD 3614 (hillhouse09_la), which already has LLOD 3729 (lodhillhouse09_la) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3737 (lodbevmangar_law2) to HLOD 3604 (bevmangar_law2), which already has LLOD 3737 (lodbevmangar_law2) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3732 (lodnwlaw2husjm) to HLOD 3618 (nwlaw2husjm3_law2), which already has LLOD 3732 (lodnwlaw2husjm) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3767 (lod_mulhouse04) to HLOD 3765 (tcemulhouse04_law01), which already has LLOD 3767 (lod_mulhouse04) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3740 (lodhillhouse13_la) to HLOD 3609 (hillhouse13_la), which already has LLOD 3740 (lodhillhouse13_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3341 (lodtrail_lg3_01) to HLOD 3170 (trailer_large3_01), which already has LLOD 3341 (lodtrail_lg3_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3737 (lodbevmangar_law2) to HLOD 3604 (bevmangar_law2), which already has LLOD 3737 (lodbevmangar_law2) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3730 (lodhillhouse08_la) to HLOD 3608 (hillhouse08_la), which already has LLOD 3730 (lodhillhouse08_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3728 (lodhillhouse10_la) to HLOD 3613 (hillhouse10_la), which already has LLOD 3728 (lodhillhouse10_la) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3725 (lodhillhouse06_la) to HLOD 3600 (hillhouse06_la), which already has LLOD 3725 (lodhillhouse06_la) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3731 (lodhillhouse01_la) to HLOD 3598 (hillhouse01_la), which already has LLOD 3731 (lodhillhouse01_la) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3726 (lodhillhouse05_la) to HLOD 3602 (hillhouse05_la), which already has LLOD 3726 (lodhillhouse05_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3340 (lodtrail_lg1_01) to HLOD 3167 (trailer_large1_01), which already has LLOD 3340 (lodtrail_lg1_01) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3339 (lodtrail_lg2_01) to HLOD 3169 (trailer_large2_01), which already has LLOD 3339 (lodtrail_lg2_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3345 (lodtrail6_01) to HLOD 3172 (trailer6_01), which already has LLOD 3345 (lodtrail6_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3298 (lod_conhoos2) to HLOD 3241 (conhoos2), which already has LLOD 3298 (lod_conhoos2) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3300 (lod_conhoos4) to HLOD 3285 (conhoos4), which already has LLOD 3300 (lod_conhoos4) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3299 (lod_conhoos3) to HLOD 3283 (conhoos3), which already has LLOD 3299 (lod_conhoos3) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3742 (lodcehillhse14) to HLOD 3741 (cehillhse14), which already has LLOD 3742 (lodcehillhse14) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3344 (lodtrail5_01) to HLOD 3171 (trailer5_01), which already has LLOD 3344 (lodtrail5_01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3732 (lodnwlaw2husjm) to HLOD 3618 (nwlaw2husjm3_law2), which already has LLOD 3732 (lodnwlaw2husjm) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3726 (lodhillhouse05_la) to HLOD 3602 (hillhouse05_la), which already has LLOD 3726 (lodhillhouse05_la) - countrye
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe  [DUP x6]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3782 (lodlan2officeflrs) to HLOD 3781 (lan2officeflrs), which already has LLOD 3782 (lodlan2officeflrs) - LAn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3782 (lodlan2officeflrs) to HLOD 3781 (lan2officeflrs), which already has LLOD 3782 (lodlan2officeflrs) - LAn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3780 (lodairyelrm_las) to HLOD 3665 (airyelrm_las), which already has LLOD 3780 (lodairyelrm_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3667 (lodped_hse1_las) to HLOD 3588 (sanped_hse1_las), which already has LLOD 3667 (lodped_hse1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3667 (lodped_hse1_las) to HLOD 3588 (sanped_hse1_las), which already has LLOD 3667 (lodped_hse1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3668 (lodnpedhus1_las) to HLOD 3587 (nwsnpedhus1_las), which already has LLOD 3668 (lodnpedhus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3668 (lodnpedhus1_las) to HLOD 3587 (nwsnpedhus1_las), which already has LLOD 3668 (lodnpedhus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3669 (lodcumphus1_las) to HLOD 3634 (nwccumphus1_las), which already has LLOD 3669 (lodcumphus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3669 (lodcumphus1_las) to HLOD 3634 (nwccumphus1_las), which already has LLOD 3669 (lodcumphus1_las) - LAs  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3670 (lodcumphus2_las) to HLOD 3635 (nwccumphus2_las), which already has LLOD 3670 (lodcumphus2_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3669 (lodcumphus1_las) to HLOD 3634 (nwccumphus1_las), which already has LLOD 3669 (lodcumphus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3672 (lodang_las) to HLOD 3629 (arhang_las), which already has LLOD 3672 (lodang_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3672 (lodang_las) to HLOD 3629 (arhang_las), which already has LLOD 3672 (lodang_las) - LAs  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3780 (lodairyelrm_las) to HLOD 3665 (airyelrm_las), which already has LLOD 3780 (lodairyelrm_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3668 (lodnpedhus1_las) to HLOD 3587 (nwsnpedhus1_las), which already has LLOD 3668 (lodnpedhus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3667 (lodped_hse1_las) to HLOD 3588 (sanped_hse1_las), which already has LLOD 3667 (lodped_hse1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3667 (lodped_hse1_las) to HLOD 3588 (sanped_hse1_las), which already has LLOD 3667 (lodped_hse1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3668 (lodnpedhus1_las) to HLOD 3587 (nwsnpedhus1_las), which already has LLOD 3668 (lodnpedhus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3668 (lodnpedhus1_las) to HLOD 3587 (nwsnpedhus1_las), which already has LLOD 3668 (lodnpedhus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3669 (lodcumphus1_las) to HLOD 3634 (nwccumphus1_las), which already has LLOD 3669 (lodcumphus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3669 (lodcumphus1_las) to HLOD 3634 (nwccumphus1_las), which already has LLOD 3669 (lodcumphus1_las) - LAs  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3670 (lodcumphus2_las) to HLOD 3635 (nwccumphus2_las), which already has LLOD 3670 (lodcumphus2_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3670 (lodcumphus2_las) to HLOD 3635 (nwccumphus2_las), which already has LLOD 3670 (lodcumphus2_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3669 (lodcumphus1_las) to HLOD 3634 (nwccumphus1_las), which already has LLOD 3669 (lodcumphus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3669 (lodcumphus1_las) to HLOD 3634 (nwccumphus1_las), which already has LLOD 3669 (lodcumphus1_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3672 (lodang_las) to HLOD 3629 (arhang_las), which already has LLOD 3672 (lodang_las) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3672 (lodang_las) to HLOD 3629 (arhang_las), which already has LLOD 3672 (lodang_las) - LAs  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3769 (lodostntrmp) to HLOD 3625 (crgostntrmp), which already has LLOD 3769 (lodostntrmp) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3769 (lodostntrmp) to HLOD 3625 (crgostntrmp), which already has LLOD 3769 (lodostntrmp) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3708 (lod_rdwarhusmed) to HLOD 3707 (rdwarhusmed), which already has LLOD 3708 (lod_rdwarhusmed) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3708 (lod_rdwarhusmed) to HLOD 3707 (rdwarhusmed), which already has LLOD 3708 (lod_rdwarhusmed) - LAs2  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3756 (lodwarhus_las03) to HLOD 3755 (las2warhus_las2), which already has LLOD 3756 (lodwarhus_las03) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3708 (lod_rdwarhusmed) to HLOD 3707 (rdwarhusmed), which already has LLOD 3708 (lod_rdwarhusmed) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3756 (lodwarhus_las03) to HLOD 3755 (las2warhus_las2), which already has LLOD 3756 (lodwarhus_las03) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3690 (lod_rdwarhusbig) to HLOD 3689 (rdwarhusbig), which already has LLOD 3690 (lod_rdwarhusbig) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3682 (lod_refinerybase) to HLOD 3673 (laxrf_refinerybase), which already has LLOD 3682 (lod_refinerybase) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3682 (lod_refinerybase) to HLOD 3673 (laxrf_refinerybase), which already has LLOD 3682 (lod_refinerybase) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3683 (lod_indust1las) to HLOD 3636 (indust1las_las), which already has LLOD 3683 (lod_indust1las) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3683 (lod_indust1las) to HLOD 3636 (indust1las_las), which already has LLOD 3683 (lod_indust1las) - countn2  [DUP x5]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3291 (lod_ref_oiltank) to HLOD 3255 (ref_oiltank01), which already has LLOD 3291 (lod_ref_oiltank) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3291 (lod_ref_oiltank) to HLOD 3255 (ref_oiltank01), which already has LLOD 3291 (lod_ref_oiltank) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3289 (lod_refthinchim1) to HLOD 3258 (refthinchim1), which already has LLOD 3289 (lod_refthinchim1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3289 (lod_refthinchim1) to HLOD 3258 (refthinchim1), which already has LLOD 3289 (lod_refthinchim1) - countn2  [DUP x8]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3290 (lod_refchimny01) to HLOD 3256 (refchimny01), which already has LLOD 3290 (lod_refchimny01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3290 (lod_refchimny01) to HLOD 3256 (refchimny01), which already has LLOD 3290 (lod_refchimny01) - countn2  [DUP x5]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3288 (lod_refinerybox1) to HLOD 3257 (refinerybox1), which already has LLOD 3288 (lod_refinerybox1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3288 (lod_refinerybox1) to HLOD 3257 (refinerybox1), which already has LLOD 3288 (lod_refinerybox1) - countn2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1396 (lodtainercrane_04) to HLOD 1378 (containercrane_04), which already has LLOD 1396 (lodtainercrane_04) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1396 (lodtainercrane_04) to HLOD 1378 (containercrane_04), which already has LLOD 1396 (lodtainercrane_04) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3688 (lod_rbigcrate_las) to HLOD 3621 (rbigcrate_las), which already has LLOD 3688 (lod_rbigcrate_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3688 (lod_rbigcrate_las) to HLOD 3621 (rbigcrate_las), which already has LLOD 3688 (lod_rbigcrate_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3687 (lod_rdwarhus) to HLOD 3622 (rdwarhus), which already has LLOD 3687 (lod_rdwarhus) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3687 (lod_rdwarhus) to HLOD 3622 (rdwarhus), which already has LLOD 3687 (lod_rdwarhus) - LAs2  [DUP x8]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3688 (lod_rbigcrate_las) to HLOD 3621 (rbigcrate_las), which already has LLOD 3688 (lod_rbigcrate_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3688 (lod_rbigcrate_las) to HLOD 3621 (rbigcrate_las), which already has LLOD 3688 (lod_rbigcrate_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3686 (lod_dckcanpy) to HLOD 3627 (dckcanpy), which already has LLOD 3686 (lod_dckcanpy) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3686 (lod_dckcanpy) to HLOD 3627 (dckcanpy), which already has LLOD 3686 (lod_dckcanpy) - LAs2  [DUP x6]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3687 (lod_rdwarhus) to HLOD 3622 (rdwarhus), which already has LLOD 3687 (lod_rdwarhus) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3686 (lod_dckcanpy) to HLOD 3627 (dckcanpy), which already has LLOD 3686 (lod_dckcanpy) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3688 (lod_rbigcrate_las) to HLOD 3621 (rbigcrate_las), which already has LLOD 3688 (lod_rbigcrate_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3710 (lod_nwwarhus) to HLOD 3624 (nwwarhus), which already has LLOD 3710 (lod_nwwarhus) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3710 (lod_nwwarhus) to HLOD 3624 (nwwarhus), which already has LLOD 3710 (lod_nwwarhus) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3709 (lod_rdwarhus2) to HLOD 3623 (rdwarhus2), which already has LLOD 3709 (lod_rdwarhus2) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3709 (lod_rdwarhus2) to HLOD 3623 (rdwarhus2), which already has LLOD 3709 (lod_rdwarhus2) - LAs2  [DUP x6]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3710 (lod_nwwarhus) to HLOD 3624 (nwwarhus), which already has LLOD 3710 (lod_nwwarhus) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3688 (lod_rbigcrate_las) to HLOD 3621 (rbigcrate_las), which already has LLOD 3688 (lod_rbigcrate_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3723 (laxrf_lodscrapbox) to HLOD 3722 (laxrf_scrapbox), which already has LLOD 3723 (laxrf_lodscrapbox) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3723 (laxrf_lodscrapbox) to HLOD 3722 (laxrf_scrapbox), which already has LLOD 3723 (laxrf_lodscrapbox) - LAs2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3592 (lodpfukhouse3) to HLOD 3589 (compfukhouse3), which already has LLOD 3592 (lodpfukhouse3) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3647 (lodganghous02_lax) to HLOD 3648 (ganghous02_lax), which already has LLOD 3647 (lodganghous02_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3647 (lodganghous02_lax) to HLOD 3648 (ganghous02_lax), which already has LLOD 3647 (lodganghous02_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3592 (lodpfukhouse3) to HLOD 3589 (compfukhouse3), which already has LLOD 3592 (lodpfukhouse3) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3647 (lodganghous02_lax) to HLOD 3648 (ganghous02_lax), which already has LLOD 3647 (lodganghous02_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3591 (lodpfukhouse2) to HLOD 3590 (compfukhouse2), which already has LLOD 3591 (lodpfukhouse2) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3706 (lodgnghos05_lax) to HLOD 3646 (ganghous05_lax), which already has LLOD 3706 (lodgnghos05_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3706 (lodgnghos05_lax) to HLOD 3646 (ganghous05_lax), which already has LLOD 3706 (lodgnghos05_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3654 (lodganghous01_lax) to HLOD 3649 (ganghous01_lax), which already has LLOD 3654 (lodganghous01_lax) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3591 (lodpfukhouse2) to HLOD 3590 (compfukhouse2), which already has LLOD 3591 (lodpfukhouse2) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3696 (lodproject2lae2) to HLOD 3697 (project2lae2), which already has LLOD 3696 (lodproject2lae2) - LAe2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3696 (lodproject2lae2) to HLOD 3697 (project2lae2), which already has LLOD 3696 (lodproject2lae2) - LAe2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs  [DUP x24]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3709 (lod_rdwarhus2) to HLOD 3623 (rdwarhus2), which already has LLOD 3709 (lod_rdwarhus2) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3709 (lod_rdwarhus2) to HLOD 3623 (rdwarhus2), which already has LLOD 3709 (lod_rdwarhus2) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3289 (lod_refthinchim1) to HLOD 3258 (refthinchim1), which already has LLOD 3289 (lod_refthinchim1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3747 (lodlasntrk3) to HLOD 3569 (lasntrk3), which already has LLOD 3747 (lodlasntrk3) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3747 (lodlasntrk3) to HLOD 3569 (lasntrk3), which already has LLOD 3747 (lodlasntrk3) - LAs2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3745 (lodla_chem_piping) to HLOD 3643 (la_chem_piping), which already has LLOD 3745 (lodla_chem_piping) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3745 (lodla_chem_piping) to HLOD 3643 (la_chem_piping), which already has LLOD 3745 (lodla_chem_piping) - LAs2  [DUP x11]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3746 (lodredockrane_las) to HLOD 3620 (redockrane_las), which already has LLOD 3746 (lodredockrane_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3746 (lodredockrane_las) to HLOD 3620 (redockrane_las), which already has LLOD 3746 (lodredockrane_las) - LAs2  [DUP x8]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3295 (lod_watertwr) to HLOD 3286 (cxrf_watertwr), which already has LLOD 3295 (lod_watertwr) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3296 (lod_oiltank) to HLOD 3287 (cxrf_oiltank), which already has LLOD 3296 (lod_oiltank) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3295 (lod_watertwr) to HLOD 3286 (cxrf_watertwr), which already has LLOD 3295 (lod_watertwr) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3290 (lod_refchimny01) to HLOD 3256 (refchimny01), which already has LLOD 3290 (lod_refchimny01) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3748 (lodllprosjmt_las) to HLOD 3628 (smallprosjmt_las), which already has LLOD 3748 (lodllprosjmt_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3748 (lodllprosjmt_las) to HLOD 3628 (smallprosjmt_las), which already has LLOD 3748 (lodllprosjmt_las) - LAs2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3288 (lod_refinerybox1) to HLOD 3257 (refinerybox1), which already has LLOD 3288 (lod_refinerybox1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1396 (lodtainercrane_04) to HLOD 1378 (containercrane_04), which already has LLOD 1396 (lodtainercrane_04) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1396 (lodtainercrane_04) to HLOD 1378 (containercrane_04), which already has LLOD 1396 (lodtainercrane_04) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3288 (lod_refinerybox1) to HLOD 3257 (refinerybox1), which already has LLOD 3288 (lod_refinerybox1) - countn2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3687 (lod_rdwarhus) to HLOD 3622 (rdwarhus), which already has LLOD 3687 (lod_rdwarhus) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3687 (lod_rdwarhus) to HLOD 3622 (rdwarhus), which already has LLOD 3687 (lod_rdwarhus) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3746 (lodredockrane_las) to HLOD 3620 (redockrane_las), which already has LLOD 3746 (lodredockrane_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3746 (lodredockrane_las) to HLOD 3620 (redockrane_las), which already has LLOD 3746 (lodredockrane_las) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3758 (lodkwall_las2) to HLOD 3753 (dockwall_las2), which already has LLOD 3758 (lodkwall_las2) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3758 (lodkwall_las2) to HLOD 3753 (dockwall_las2), which already has LLOD 3758 (lodkwall_las2) - LAs2  [DUP x5]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3770 (lodwrkhut) to HLOD 3626 (dckwrkhut), which already has LLOD 3770 (lodwrkhut) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3770 (lodwrkhut) to HLOD 3626 (dckwrkhut), which already has LLOD 3770 (lodwrkhut) - LAs2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 5352 (lodcargoshp03f) to HLOD 3724 (laxrf_cargotop), which already has LLOD 5164 (lodcargoshp03d) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3744 (lodlasdkrtgrp02) to HLOD 3574 (lasdkrtgrp2), which already has LLOD 3744 (lodlasdkrtgrp02) - LAs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3779 (lodust1las2_las2) to HLOD 3637 (indust1las2_las), which already has LLOD 3779 (lodust1las2_las2) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3779 (lodust1las2_las2) to HLOD 3637 (indust1las2_las), which already has LLOD 3779 (lodust1las2_las2) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3718 (lodnphouse01_lax) to HLOD 3639 (glenphouse01_lax), which already has LLOD 3718 (lodnphouse01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3720 (lodnphouse03_lax) to HLOD 3642 (glenphouse03_lax), which already has LLOD 3720 (lodnphouse03_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3760 (lodcanhou01_lax) to HLOD 3759 (vencanhou01_lax), which already has LLOD 3760 (lodcanhou01_lax) - LAw
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3719 (lodnphouse02_lax) to HLOD 3640 (glenphouse02_lax), which already has LLOD 3719 (lodnphouse02_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3760 (lodcanhou01_lax) to HLOD 3759 (vencanhou01_lax), which already has LLOD 3760 (lodcanhou01_lax) - LAw
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3760 (lodcanhou01_lax) to HLOD 3759 (vencanhou01_lax), which already has LLOD 3760 (lodcanhou01_lax) - LAw
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3718 (lodnphouse01_lax) to HLOD 3639 (glenphouse01_lax), which already has LLOD 3718 (lodnphouse01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3760 (lodcanhou01_lax) to HLOD 3759 (vencanhou01_lax), which already has LLOD 3760 (lodcanhou01_lax) - LAw
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3720 (lodnphouse03_lax) to HLOD 3642 (glenphouse03_lax), which already has LLOD 3720 (lodnphouse03_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3718 (lodnphouse01_lax) to HLOD 3639 (glenphouse01_lax), which already has LLOD 3718 (lodnphouse01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3719 (lodnphouse02_lax) to HLOD 3640 (glenphouse02_lax), which already has LLOD 3719 (lodnphouse02_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3720 (lodnphouse03_lax) to HLOD 3642 (glenphouse03_lax), which already has LLOD 3720 (lodnphouse03_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3718 (lodnphouse01_lax) to HLOD 3639 (glenphouse01_lax), which already has LLOD 3718 (lodnphouse01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3718 (lodnphouse01_lax) to HLOD 3639 (glenphouse01_lax), which already has LLOD 3718 (lodnphouse01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3718 (lodnphouse01_lax) to HLOD 3639 (glenphouse01_lax), which already has LLOD 3718 (lodnphouse01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3719 (lodnphouse02_lax) to HLOD 3640 (glenphouse02_lax), which already has LLOD 3719 (lodnphouse02_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3760 (lodcanhou01_lax) to HLOD 3759 (vencanhou01_lax), which already has LLOD 3760 (lodcanhou01_lax) - LAw
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3719 (lodnphouse02_lax) to HLOD 3640 (glenphouse02_lax), which already has LLOD 3719 (lodnphouse02_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3720 (lodnphouse03_lax) to HLOD 3642 (glenphouse03_lax), which already has LLOD 3720 (lodnphouse03_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3718 (lodnphouse01_lax) to HLOD 3639 (glenphouse01_lax), which already has LLOD 3718 (lodnphouse01_lax) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3778 (lodmonbhut1_lax01) to HLOD 3615 (sanmonbhut1_law2), which already has LLOD 3778 (lodmonbhut1_lax01) - LAw2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3778 (lodmonbhut1_lax01) to HLOD 3615 (sanmonbhut1_law2), which already has LLOD 3778 (lodmonbhut1_lax01) - LAw2  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3778 (lodmonbhut1_lax01) to HLOD 3615 (sanmonbhut1_law2), which already has LLOD 3778 (lodmonbhut1_lax01) - LAw2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3778 (lodmonbhut1_lax01) to HLOD 3615 (sanmonbhut1_law2), which already has LLOD 3778 (lodmonbhut1_lax01) - LAw2  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3750 (lodbgate01_lax) to HLOD 3749 (clubgate01_lax), which already has LLOD 3750 (lodbgate01_lax) - LAw2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3750 (lodbgate01_lax) to HLOD 3749 (clubgate01_lax), which already has LLOD 3750 (lodbgate01_lax) - LAw2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3680 (lodnhousegreyrs) to HLOD 3678 (lawnhousegreyrs), which already has LLOD 3680 (lodnhousegreyrs) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3679 (lodnhousereda) to HLOD 3676 (lawnhousereda), which already has LLOD 3679 (lodnhousereda) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3685 (lodlawnapartmnt) to HLOD 3684 (lawnapartmnt), which already has LLOD 3685 (lodlawnapartmnt) - LaWn
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3685 (lodlawnapartmnt) to HLOD 3684 (lawnapartmnt), which already has LLOD 3685 (lodlawnapartmnt) - LaWn  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3777 (lodbstage01) to HLOD 3776 (ci_bstage), which already has LLOD 3777 (lodbstage01) - LaWn
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3681 (lodnhousegreyls) to HLOD 3677 (lawnhousegreyls), which already has LLOD 3681 (lodnhousegreyls) - LaWn
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3681 (lodnhousegreyls) to HLOD 3677 (lawnhousegreyls), which already has LLOD 3681 (lodnhousegreyls) - LaWn  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3680 (lodnhousegreyrs) to HLOD 3678 (lawnhousegreyrs), which already has LLOD 3680 (lodnhousegreyrs) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3679 (lodnhousereda) to HLOD 3676 (lawnhousereda), which already has LLOD 3679 (lodnhousereda) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3777 (lodbstage01) to HLOD 3776 (ci_bstage), which already has LLOD 3777 (lodbstage01) - LaWn
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3685 (lodlawnapartmnt) to HLOD 3684 (lawnapartmnt), which already has LLOD 3685 (lodlawnapartmnt) - LaWn
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3685 (lodlawnapartmnt) to HLOD 3684 (lawnapartmnt), which already has LLOD 3685 (lodlawnapartmnt) - LaWn
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3681 (lodnhousegreyls) to HLOD 3677 (lawnhousegreyls), which already has LLOD 3681 (lodnhousegreyls) - LaWn
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3680 (lodnhousegreyrs) to HLOD 3678 (lawnhousegreyrs), which already has LLOD 3680 (lodnhousegreyrs) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3681 (lodnhousegreyls) to HLOD 3677 (lawnhousegreyls), which already has LLOD 3681 (lodnhousegreyls) - LaWn
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3679 (lodnhousereda) to HLOD 3676 (lawnhousereda), which already has LLOD 3679 (lodnhousereda) - LAhills
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1266 (lodlbd3) to HLOD 1260 (billbd3), which already has LLOD 1266 (lodlbd3) - LAe  [DUP x7]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe  [DUP x7]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3840 (lod_hse_06_sfxrf) to HLOD 3826 (box_hse_06_sfxrf), which already has LLOD 3840 (lod_hse_06_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3831 (lod_hse_09_sfxrf) to HLOD 3820 (box_hse_09_sfxrf), which already has LLOD 3831 (lod_hse_09_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3836 (lod_hse_08_sfxrf) to HLOD 3830 (box_hse_08_sfxrf), which already has LLOD 3836 (lod_hse_08_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3841 (lod_hse_01_sfxrf) to HLOD 3825 (box_hse_01_sfxrf), which already has LLOD 3841 (lod_hse_01_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3834 (lod_hse_11_sfxrf) to HLOD 3823 (box_hse_11_sfxrf), which already has LLOD 3834 (lod_hse_11_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3838 (lod_hse_07_sfxrf) to HLOD 3827 (box_hse_07_sfxrf), which already has LLOD 3838 (lod_hse_07_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3841 (lod_hse_01_sfxrf) to HLOD 3825 (box_hse_01_sfxrf), which already has LLOD 3841 (lod_hse_01_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3838 (lod_hse_07_sfxrf) to HLOD 3827 (box_hse_07_sfxrf), which already has LLOD 3838 (lod_hse_07_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3839 (lod_hse_04_sfxrf) to HLOD 3829 (box_hse_04_sfxrf), which already has LLOD 3839 (lod_hse_04_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3836 (lod_hse_08_sfxrf) to HLOD 3830 (box_hse_08_sfxrf), which already has LLOD 3836 (lod_hse_08_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3837 (lod_hse_05_sfxrf) to HLOD 3828 (box_hse_05_sfxrf), which already has LLOD 3837 (lod_hse_05_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3833 (lod_hse_03_sfxrf) to HLOD 3822 (box_hse_03_sfxrf), which already has LLOD 3833 (lod_hse_03_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3832 (lod_hse_02_sfxrf) to HLOD 3821 (box_hse_02_sfxrf), which already has LLOD 3832 (lod_hse_02_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3831 (lod_hse_09_sfxrf) to HLOD 3820 (box_hse_09_sfxrf), which already has LLOD 3831 (lod_hse_09_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3836 (lod_hse_08_sfxrf) to HLOD 3830 (box_hse_08_sfxrf), which already has LLOD 3836 (lod_hse_08_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3841 (lod_hse_01_sfxrf) to HLOD 3825 (box_hse_01_sfxrf), which already has LLOD 3841 (lod_hse_01_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3840 (lod_hse_06_sfxrf) to HLOD 3826 (box_hse_06_sfxrf), which already has LLOD 3840 (lod_hse_06_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3837 (lod_hse_05_sfxrf) to HLOD 3828 (box_hse_05_sfxrf), which already has LLOD 3837 (lod_hse_05_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3839 (lod_hse_04_sfxrf) to HLOD 3829 (box_hse_04_sfxrf), which already has LLOD 3839 (lod_hse_04_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3837 (lod_hse_05_sfxrf) to HLOD 3828 (box_hse_05_sfxrf), which already has LLOD 3837 (lod_hse_05_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3833 (lod_hse_03_sfxrf) to HLOD 3822 (box_hse_03_sfxrf), which already has LLOD 3833 (lod_hse_03_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3831 (lod_hse_09_sfxrf) to HLOD 3820 (box_hse_09_sfxrf), which already has LLOD 3831 (lod_hse_09_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3832 (lod_hse_02_sfxrf) to HLOD 3821 (box_hse_02_sfxrf), which already has LLOD 3832 (lod_hse_02_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3833 (lod_hse_03_sfxrf) to HLOD 3822 (box_hse_03_sfxrf), which already has LLOD 3833 (lod_hse_03_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3837 (lod_hse_05_sfxrf) to HLOD 3828 (box_hse_05_sfxrf), which already has LLOD 3837 (lod_hse_05_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3836 (lod_hse_08_sfxrf) to HLOD 3830 (box_hse_08_sfxrf), which already has LLOD 3836 (lod_hse_08_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3839 (lod_hse_04_sfxrf) to HLOD 3829 (box_hse_04_sfxrf), which already has LLOD 3839 (lod_hse_04_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3838 (lod_hse_07_sfxrf) to HLOD 3827 (box_hse_07_sfxrf), which already has LLOD 3838 (lod_hse_07_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3840 (lod_hse_06_sfxrf) to HLOD 3826 (box_hse_06_sfxrf), which already has LLOD 3840 (lod_hse_06_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3841 (lod_hse_01_sfxrf) to HLOD 3825 (box_hse_01_sfxrf), which already has LLOD 3841 (lod_hse_01_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3834 (lod_hse_11_sfxrf) to HLOD 3823 (box_hse_11_sfxrf), which already has LLOD 3834 (lod_hse_11_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3831 (lod_hse_09_sfxrf) to HLOD 3820 (box_hse_09_sfxrf), which already has LLOD 3831 (lod_hse_09_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3832 (lod_hse_02_sfxrf) to HLOD 3821 (box_hse_02_sfxrf), which already has LLOD 3832 (lod_hse_02_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3833 (lod_hse_03_sfxrf) to HLOD 3822 (box_hse_03_sfxrf), which already has LLOD 3833 (lod_hse_03_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3837 (lod_hse_05_sfxrf) to HLOD 3828 (box_hse_05_sfxrf), which already has LLOD 3837 (lod_hse_05_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3839 (lod_hse_04_sfxrf) to HLOD 3829 (box_hse_04_sfxrf), which already has LLOD 3839 (lod_hse_04_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3838 (lod_hse_07_sfxrf) to HLOD 3827 (box_hse_07_sfxrf), which already has LLOD 3838 (lod_hse_07_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3832 (lod_hse_02_sfxrf) to HLOD 3821 (box_hse_02_sfxrf), which already has LLOD 3832 (lod_hse_02_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3841 (lod_hse_01_sfxrf) to HLOD 3825 (box_hse_01_sfxrf), which already has LLOD 3841 (lod_hse_01_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3834 (lod_hse_11_sfxrf) to HLOD 3823 (box_hse_11_sfxrf), which already has LLOD 3834 (lod_hse_11_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3834 (lod_hse_11_sfxrf) to HLOD 3823 (box_hse_11_sfxrf), which already has LLOD 3834 (lod_hse_11_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3836 (lod_hse_08_sfxrf) to HLOD 3830 (box_hse_08_sfxrf), which already has LLOD 3836 (lod_hse_08_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3831 (lod_hse_09_sfxrf) to HLOD 3820 (box_hse_09_sfxrf), which already has LLOD 3831 (lod_hse_09_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3832 (lod_hse_02_sfxrf) to HLOD 3821 (box_hse_02_sfxrf), which already has LLOD 3832 (lod_hse_02_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3833 (lod_hse_03_sfxrf) to HLOD 3822 (box_hse_03_sfxrf), which already has LLOD 3833 (lod_hse_03_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3837 (lod_hse_05_sfxrf) to HLOD 3828 (box_hse_05_sfxrf), which already has LLOD 3837 (lod_hse_05_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3839 (lod_hse_04_sfxrf) to HLOD 3829 (box_hse_04_sfxrf), which already has LLOD 3839 (lod_hse_04_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3838 (lod_hse_07_sfxrf) to HLOD 3827 (box_hse_07_sfxrf), which already has LLOD 3838 (lod_hse_07_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3840 (lod_hse_06_sfxrf) to HLOD 3826 (box_hse_06_sfxrf), which already has LLOD 3840 (lod_hse_06_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3841 (lod_hse_01_sfxrf) to HLOD 3825 (box_hse_01_sfxrf), which already has LLOD 3841 (lod_hse_01_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3840 (lod_hse_06_sfxrf) to HLOD 3826 (box_hse_06_sfxrf), which already has LLOD 3840 (lod_hse_06_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3837 (lod_hse_05_sfxrf) to HLOD 3828 (box_hse_05_sfxrf), which already has LLOD 3837 (lod_hse_05_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3837 (lod_hse_05_sfxrf) to HLOD 3828 (box_hse_05_sfxrf), which already has LLOD 3837 (lod_hse_05_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3839 (lod_hse_04_sfxrf) to HLOD 3829 (box_hse_04_sfxrf), which already has LLOD 3839 (lod_hse_04_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3833 (lod_hse_03_sfxrf) to HLOD 3822 (box_hse_03_sfxrf), which already has LLOD 3833 (lod_hse_03_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3831 (lod_hse_09_sfxrf) to HLOD 3820 (box_hse_09_sfxrf), which already has LLOD 3831 (lod_hse_09_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3836 (lod_hse_08_sfxrf) to HLOD 3830 (box_hse_08_sfxrf), which already has LLOD 3836 (lod_hse_08_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3834 (lod_hse_11_sfxrf) to HLOD 3823 (box_hse_11_sfxrf), which already has LLOD 3834 (lod_hse_11_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3838 (lod_hse_07_sfxrf) to HLOD 3827 (box_hse_07_sfxrf), which already has LLOD 3838 (lod_hse_07_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3846 (lod_hse_13_sfxrf) to HLOD 3845 (box_hse_13_sfxrf), which already has LLOD 3846 (lod_hse_13_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3848 (lod_hse_15_sfxrf) to HLOD 3844 (box_hse_15_sfxrf), which already has LLOD 3848 (lod_hse_15_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3846 (lod_hse_13_sfxrf) to HLOD 3845 (box_hse_13_sfxrf), which already has LLOD 3846 (lod_hse_13_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3848 (lod_hse_15_sfxrf) to HLOD 3844 (box_hse_15_sfxrf), which already has LLOD 3848 (lod_hse_15_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3849 (lod_hse_12_sfxrf) to HLOD 3843 (box_hse_12_sfxrf), which already has LLOD 3849 (lod_hse_12_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3848 (lod_hse_15_sfxrf) to HLOD 3844 (box_hse_15_sfxrf), which already has LLOD 3848 (lod_hse_15_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3836 (lod_hse_08_sfxrf) to HLOD 3830 (box_hse_08_sfxrf), which already has LLOD 3836 (lod_hse_08_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3831 (lod_hse_09_sfxrf) to HLOD 3820 (box_hse_09_sfxrf), which already has LLOD 3831 (lod_hse_09_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3836 (lod_hse_08_sfxrf) to HLOD 3830 (box_hse_08_sfxrf), which already has LLOD 3836 (lod_hse_08_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3841 (lod_hse_01_sfxrf) to HLOD 3825 (box_hse_01_sfxrf), which already has LLOD 3841 (lod_hse_01_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3846 (lod_hse_13_sfxrf) to HLOD 3845 (box_hse_13_sfxrf), which already has LLOD 3846 (lod_hse_13_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3840 (lod_hse_06_sfxrf) to HLOD 3826 (box_hse_06_sfxrf), which already has LLOD 3840 (lod_hse_06_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3837 (lod_hse_05_sfxrf) to HLOD 3828 (box_hse_05_sfxrf), which already has LLOD 3837 (lod_hse_05_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3849 (lod_hse_12_sfxrf) to HLOD 3843 (box_hse_12_sfxrf), which already has LLOD 3849 (lod_hse_12_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3848 (lod_hse_15_sfxrf) to HLOD 3844 (box_hse_15_sfxrf), which already has LLOD 3848 (lod_hse_15_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3846 (lod_hse_13_sfxrf) to HLOD 3845 (box_hse_13_sfxrf), which already has LLOD 3846 (lod_hse_13_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3836 (lod_hse_08_sfxrf) to HLOD 3830 (box_hse_08_sfxrf), which already has LLOD 3836 (lod_hse_08_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3835 (lod_hse_10_sfxrf) to HLOD 3824 (box_hse_10_sfxrf), which already has LLOD 3835 (lod_hse_10_sfxrf) - SFs
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3815 (lodhangar1_sfxref) to HLOD 3814 (hangar1_sfxref), which already has LLOD 3815 (lodhangar1_sfxref) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3815 (lodhangar1_sfxref) to HLOD 3814 (hangar1_sfxref), which already has LLOD 3815 (lodhangar1_sfxref) - SFSe  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3817 (lodhangar1_sfx) to HLOD 3816 (bighangar1_sfx), which already has LLOD 3817 (lodhangar1_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3815 (lodhangar1_sfxref) to HLOD 3814 (hangar1_sfxref), which already has LLOD 3815 (lodhangar1_sfxref) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3880 (lodws_jetty_sfx) to HLOD 3879 (ws_jetty_sfx), which already has LLOD 3880 (lodws_jetty_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3880 (lodws_jetty_sfx) to HLOD 3879 (ws_jetty_sfx), which already has LLOD 3880 (lodws_jetty_sfx) - SFSe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3868 (lodscaffolding_sfx) to HLOD 3867 (ws_scaffolding_sfx), which already has LLOD 3868 (lodscaffolding_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3880 (lodws_jetty_sfx) to HLOD 3879 (ws_jetty_sfx), which already has LLOD 3880 (lodws_jetty_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3868 (lodscaffolding_sfx) to HLOD 3867 (ws_scaffolding_sfx), which already has LLOD 3868 (lodscaffolding_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3868 (lodscaffolding_sfx) to HLOD 3867 (ws_scaffolding_sfx), which already has LLOD 3868 (lodscaffolding_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3880 (lodws_jetty_sfx) to HLOD 3879 (ws_jetty_sfx), which already has LLOD 3880 (lodws_jetty_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3868 (lodscaffolding_sfx) to HLOD 3867 (ws_scaffolding_sfx), which already has LLOD 3868 (lodscaffolding_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3868 (lodscaffolding_sfx) to HLOD 3867 (ws_scaffolding_sfx), which already has LLOD 3868 (lodscaffolding_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1396 (lodtainercrane_04) to HLOD 1378 (containercrane_04), which already has LLOD 1396 (lodtainercrane_04) - LAs2
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3874 (lodsilicon04_sfs) to HLOD 3873 (silicon04_sfs), which already has LLOD 3874 (lodsilicon04_sfs) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3880 (lodws_jetty_sfx) to HLOD 3879 (ws_jetty_sfx), which already has LLOD 3880 (lodws_jetty_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3868 (lodscaffolding_sfx) to HLOD 3867 (ws_scaffolding_sfx), which already has LLOD 3868 (lodscaffolding_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3869 (loddemolish1_sfxrf) to HLOD 3866 (demolish1_sfxrf), which already has LLOD 3869 (loddemolish1_sfxrf) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3874 (lodsilicon04_sfs) to HLOD 3873 (silicon04_sfs), which already has LLOD 3874 (lodsilicon04_sfs) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3880 (lodws_jetty_sfx) to HLOD 3879 (ws_jetty_sfx), which already has LLOD 3880 (lodws_jetty_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3868 (lodscaffolding_sfx) to HLOD 3867 (ws_scaffolding_sfx), which already has LLOD 3868 (lodscaffolding_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3869 (loddemolish1_sfxrf) to HLOD 3866 (demolish1_sfxrf), which already has LLOD 3869 (loddemolish1_sfxrf) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3874 (lodsilicon04_sfs) to HLOD 3873 (silicon04_sfs), which already has LLOD 3874 (lodsilicon04_sfs) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3880 (lodws_jetty_sfx) to HLOD 3879 (ws_jetty_sfx), which already has LLOD 3880 (lodws_jetty_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3880 (lodws_jetty_sfx) to HLOD 3879 (ws_jetty_sfx), which already has LLOD 3880 (lodws_jetty_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3888 (loddemolish4_sfxrf) to HLOD 3887 (demolish4_sfxrf), which already has LLOD 3888 (loddemolish4_sfxrf) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3868 (lodscaffolding_sfx) to HLOD 3867 (ws_scaffolding_sfx), which already has LLOD 3868 (lodscaffolding_sfx) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3874 (lodsilicon04_sfs) to HLOD 3873 (silicon04_sfs), which already has LLOD 3874 (lodsilicon04_sfs) - SFSe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3482 (lodlsgn01_lvs) to HLOD 3434 (skllsgn01_lvs), which already has LLOD 3482 (lodlsgn01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3495 (lodorpillar04_lvs) to HLOD 3494 (luxorpillar04_lvs), which already has LLOD 3495 (lodorpillar04_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe  [DUP x3]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3523 (lodenmotel13) to HLOD 3469 (vegenmotel1), which already has LLOD 3523 (lodenmotel13) - vegasN
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3523 (lodenmotel13) to HLOD 3469 (vegenmotel1), which already has LLOD 3523 (lodenmotel13) - vegasN
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3523 (lodenmotel13) to HLOD 3469 (vegenmotel1), which already has LLOD 3523 (lodenmotel13) - vegasN
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe  [DUP x4]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3523 (lodenmotel13) to HLOD 3469 (vegenmotel1), which already has LLOD 3523 (lodenmotel13) - vegasN
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3523 (lodenmotel13) to HLOD 3469 (vegenmotel1), which already has LLOD 3523 (lodenmotel13) - vegasN
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3523 (lodenmotel13) to HLOD 3469 (vegenmotel1), which already has LLOD 3523 (lodenmotel13) - vegasN
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3490 (lodgar1_08_lvs) to HLOD 3489 (hangar1_08_lvs), which already has LLOD 3490 (lodgar1_08_lvs) - vegasS
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1325 (lodlbrd) to HLOD 1309 (bigbillbrd), which already has LLOD 1325 (lodlbrd) - vegasS
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1325 (lodlbrd) to HLOD 1309 (bigbillbrd), which already has LLOD 1325 (lodlbrd) - vegasS
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3542 (lodasxrexhse04) to HLOD 3485 (vegasxrexhse04), which already has LLOD 3542 (lodasxrexhse04) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3542 (lodasxrexhse04) to HLOD 3485 (vegasxrexhse04), which already has LLOD 3542 (lodasxrexhse04) - vegasW  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE  [DUP x2]
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3543 (lodasxrexhse05) to HLOD 3486 (vegasxrexhse05), which already has LLOD 3543 (lodasxrexhse05) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3481 (lodhseblk03) to HLOD 3456 (vgnhseblk3), which already has LLOD 3481 (lodhseblk03) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3543 (lodasxrexhse05) to HLOD 3486 (vegasxrexhse05), which already has LLOD 3543 (lodasxrexhse05) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3479 (lodhseblk2) to HLOD 3457 (vgnhseblk2), which already has LLOD 3479 (lodhseblk2) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3540 (lodasxrexhse09) to HLOD 3483 (vegasxrexhse09), which already has LLOD 3540 (lodasxrexhse09) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3544 (lodasxrexhse06) to HLOD 3487 (vegasxrexhse06), which already has LLOD 3544 (lodasxrexhse06) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3548 (lodasxrexhse2) to HLOD 3443 (vegasxrexhse2), which already has LLOD 3548 (lodasxrexhse2) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3544 (lodasxrexhse06) to HLOD 3487 (vegasxrexhse06), which already has LLOD 3544 (lodasxrexhse06) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3548 (lodasxrexhse2) to HLOD 3443 (vegasxrexhse2), which already has LLOD 3548 (lodasxrexhse2) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3548 (lodasxrexhse2) to HLOD 3443 (vegasxrexhse2), which already has LLOD 3548 (lodasxrexhse2) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3544 (lodasxrexhse06) to HLOD 3487 (vegasxrexhse06), which already has LLOD 3544 (lodasxrexhse06) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3548 (lodasxrexhse2) to HLOD 3443 (vegasxrexhse2), which already has LLOD 3548 (lodasxrexhse2) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3548 (lodasxrexhse2) to HLOD 3443 (vegasxrexhse2), which already has LLOD 3548 (lodasxrexhse2) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3544 (lodasxrexhse06) to HLOD 3487 (vegasxrexhse06), which already has LLOD 3544 (lodasxrexhse06) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3548 (lodasxrexhse2) to HLOD 3443 (vegasxrexhse2), which already has LLOD 3548 (lodasxrexhse2) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3544 (lodasxrexhse06) to HLOD 3487 (vegasxrexhse06), which already has LLOD 3544 (lodasxrexhse06) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3538 (lodashseplot1) to HLOD 3450 (vegashseplot1), which already has LLOD 3538 (lodashseplot1) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3544 (lodasxrexhse06) to HLOD 3487 (vegasxrexhse06), which already has LLOD 3544 (lodasxrexhse06) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3500 (lodxrefpartm1) to HLOD 3501 (vgsxrefpartm1), which already has LLOD 3500 (lodxrefpartm1) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3544 (lodasxrexhse06) to HLOD 3487 (vegasxrexhse06), which already has LLOD 3544 (lodasxrexhse06) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3500 (lodxrefpartm1) to HLOD 3501 (vgsxrefpartm1), which already has LLOD 3500 (lodxrefpartm1) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3500 (lodxrefpartm1) to HLOD 3501 (vgsxrefpartm1), which already has LLOD 3500 (lodxrefpartm1) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3544 (lodasxrexhse06) to HLOD 3487 (vegasxrexhse06), which already has LLOD 3544 (lodasxrexhse06) - vegasW
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:04] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3544 (lodasxrexhse06) to HLOD 3487 (vegasxrexhse06), which already has LLOD 3544 (lodasxrexhse06) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3545 (lodasxrexhse07) to HLOD 3488 (vegasxrexhse07), which already has LLOD 3545 (lodasxrexhse07) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3545 (lodasxrexhse07) to HLOD 3488 (vegasxrexhse07), which already has LLOD 3545 (lodasxrexhse07) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3545 (lodasxrexhse07) to HLOD 3488 (vegasxrexhse07), which already has LLOD 3545 (lodasxrexhse07) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3545 (lodasxrexhse07) to HLOD 3488 (vegasxrexhse07), which already has LLOD 3545 (lodasxrexhse07) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3545 (lodasxrexhse07) to HLOD 3488 (vegasxrexhse07), which already has LLOD 3545 (lodasxrexhse07) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3545 (lodasxrexhse07) to HLOD 3488 (vegasxrexhse07), which already has LLOD 3545 (lodasxrexhse07) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE  [DUP x11]
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3545 (lodasxrexhse07) to HLOD 3488 (vegasxrexhse07), which already has LLOD 3545 (lodasxrexhse07) - vegasW  [DUP x11]
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3545 (lodasxrexhse07) to HLOD 3488 (vegasxrexhse07), which already has LLOD 3545 (lodasxrexhse07) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3545 (lodasxrexhse07) to HLOD 3488 (vegasxrexhse07), which already has LLOD 3545 (lodasxrexhse07) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3476 (lodllintvgn1) to HLOD 3452 (bballintvgn1), which already has LLOD 3476 (lodllintvgn1) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3476 (lodllintvgn1) to HLOD 3452 (bballintvgn1), which already has LLOD 3476 (lodllintvgn1) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3546 (lodasxrexhse08) to HLOD 3445 (vegasxrexhse08), which already has LLOD 3546 (lodasxrexhse08) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3476 (lodllintvgn1) to HLOD 3452 (bballintvgn1), which already has LLOD 3476 (lodllintvgn1) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3546 (lodasxrexhse08) to HLOD 3445 (vegasxrexhse08), which already has LLOD 3546 (lodasxrexhse08) - vegasW  [DUP x2]
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3476 (lodllintvgn1) to HLOD 3452 (bballintvgn1), which already has LLOD 3476 (lodllintvgn1) - vegasW  [DUP x2]
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3546 (lodasxrexhse08) to HLOD 3445 (vegasxrexhse08), which already has LLOD 3546 (lodasxrexhse08) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3546 (lodasxrexhse08) to HLOD 3445 (vegasxrexhse08), which already has LLOD 3546 (lodasxrexhse08) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3478 (lodhseing15) to HLOD 3454 (vgnhseing15), which already has LLOD 3478 (lodhseing15) - vegasE  [DUP x5]
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3546 (lodasxrexhse08) to HLOD 3445 (vegasxrexhse08), which already has LLOD 3546 (lodasxrexhse08) - vegasW  [DUP x5]
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3535 (lodashsenew1) to HLOD 3449 (vegashsenew1), which already has LLOD 3535 (lodashsenew1) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3479 (lodhseblk2) to HLOD 3457 (vgnhseblk2), which already has LLOD 3479 (lodhseblk2) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3546 (lodasxrexhse08) to HLOD 3445 (vegasxrexhse08), which already has LLOD 3546 (lodasxrexhse08) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3535 (lodashsenew1) to HLOD 3449 (vegashsenew1), which already has LLOD 3535 (lodashsenew1) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3480 (lodhseblk1) to HLOD 3455 (vgnhseblk1), which already has LLOD 3480 (lodhseblk1) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3546 (lodasxrexhse08) to HLOD 3445 (vegasxrexhse08), which already has LLOD 3546 (lodasxrexhse08) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3481 (lodhseblk03) to HLOD 3456 (vgnhseblk3), which already has LLOD 3481 (lodhseblk03) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3546 (lodasxrexhse08) to HLOD 3445 (vegasxrexhse08), which already has LLOD 3546 (lodasxrexhse08) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3481 (lodhseblk03) to HLOD 3456 (vgnhseblk3), which already has LLOD 3481 (lodhseblk03) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3479 (lodhseblk2) to HLOD 3457 (vgnhseblk2), which already has LLOD 3479 (lodhseblk2) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3480 (lodhseblk1) to HLOD 3455 (vgnhseblk1), which already has LLOD 3480 (lodhseblk1) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3539 (lodbbyhouse01_lvs) to HLOD 3466 (shabbyhouse01_lvs), which already has LLOD 3539 (lodbbyhouse01_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3537 (lodbbyhouse02_lvs) to HLOD 3444 (shabbyhouse02_lvs), which already has LLOD 3537 (lodbbyhouse02_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3541 (lodasxrexhse03) to HLOD 3484 (vegasxrexhse03), which already has LLOD 3541 (lodasxrexhse03) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3541 (lodasxrexhse03) to HLOD 3484 (vegasxrexhse03), which already has LLOD 3541 (lodasxrexhse03) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3548 (lodasxrexhse2) to HLOD 3443 (vegasxrexhse2), which already has LLOD 3548 (lodasxrexhse2) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1261 (lodlbd2) to HLOD 1267 (billbd2), which already has LLOD 1261 (lodlbd2) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3541 (lodasxrexhse03) to HLOD 3484 (vegasxrexhse03), which already has LLOD 3541 (lodasxrexhse03) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3547 (lodasxrexhse10) to HLOD 3446 (vegasxrexhse10), which already has LLOD 3547 (lodasxrexhse10) - vegasW
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 1268 (lodlbd1) to HLOD 1259 (billbd1), which already has LLOD 1268 (lodlbd1) - LAe
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3536 (lodbbyhouse03_lvs) to HLOD 3464 (shabbyhouse03_lvs), which already has LLOD 3536 (lodbbyhouse03_lvs) - vegasE
+[2024-11-02 17:25:05] INFO: Trying to assign LLOD 3541 (lodasxrexhse03) to HLOD 3484 (vegasxrexhse03), which already has LLOD 3541 (lodasxrexhse03) - vegasW
