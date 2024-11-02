@@ -147,7 +147,9 @@ end
 local function assignLod(hLODObjId, lLODObjId, iplName)
     local currAssignment = lodTable[hLODObjId]
     if currAssignment then
-        print("Trying to assign LLOD " .. getObjModelName(lLODObjId, true).." to HLOD " .. getObjModelName(hLODObjId, true) .. ", which already has LLOD ".. getObjModelName(currAssignment[1], true) .. " - "..currAssignment[2])
+        if currAssignment[1] ~= lLODObjId then
+            print("Trying to assign a different LLOD " .. getObjModelName(lLODObjId, true).." to HLOD " .. getObjModelName(hLODObjId, true) .. ", which already has LLOD ".. getObjModelName(currAssignment[1], true) .. " - "..currAssignment[2])
+        end
         return
     end
     lodTable[hLODObjId] = {lLODObjId, iplName}

@@ -1,0 +1,8 @@
+[2024-11-02 17:34:46] INFO: Trying to assign a different LLOD 16274 (oilderricklod02) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:34:46] INFO: Trying to assign a different LLOD 16275 (oilderricklod03) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:34:46] INFO: Trying to assign a different LLOD 16276 (oilderricklod04) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:34:46] INFO: Trying to assign a different LLOD 16277 (oilderricklod05) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:34:46] INFO: Trying to assign a different LLOD 16278 (oilderricklod06) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:34:46] INFO: Trying to assign a different LLOD 16279 (oilderricklod07) to HLOD 3427 (derrick01), which already has LLOD 16273 (oilderricklod01) - countn2
+[2024-11-02 17:34:46] INFO: Trying to assign a different LLOD 3372 (lod_d_bighus2_) to HLOD 3303 (des_bighus03), which already has LLOD 3373 (lod_d_bighus3_) - countn2
+[2024-11-02 17:34:46] INFO: Trying to assign a different LLOD 5352 (lodcargoshp03f) to HLOD 3724 (laxrf_cargotop), which already has LLOD 5164 (lodcargoshp03d) - LAs2
