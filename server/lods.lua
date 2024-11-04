@@ -226,6 +226,8 @@ addCommandHandler("lodmodels", function()
         end
     end
 
+    --[[
+    local lodTableFileName = "server/lod_table.hpp"
     local lodTableStr = "OBJ_LOD_MODELS = {{\n"
     local count = 0
     for obj, v in pairsByKeys(lodTable) do
@@ -238,14 +240,37 @@ addCommandHandler("lodmodels", function()
     lodTableStr = lodTableStr .. "}};"
     lodTableStr = "// Total: "..count.."\n" .. lodTableStr
 
-    local file = fileCreate("server/lod_table.hpp")
+    local file = fileCreate(lodTableFileName)
     if not file then
         outputDebugString("Failed to create file", 1)
         return
     end
     fileWrite(file, lodTableStr)
     fileClose(file)
-    outputDebugString("LOD table written to file")
+    outputDebugString("LOD table written to file: "..lodTableFileName)
+    --]]
+
+    local lodTableFileName = "server/lod_table.lua"
+    local lodTableStr = "OBJ_LOD_MODELS = {\n"
+    local count = 0
+    for obj, v in pairsByKeys(lodTable) do
+        local lod, iplFn = v[1], v[2]
+        local modelName = getObjModelName(obj)
+        local lodModelName = getObjModelName(lod)
+        lodTableStr = lodTableStr .. "[" .. obj .. "] = " .. lod .. ", -- "..modelName.." => "..lodModelName.." ("..iplFn..")\n"
+        count = count + 1
+    end
+    lodTableStr = lodTableStr .. "}"
+    lodTableStr = "-- Total: "..count.."\n" .. lodTableStr
+
+    local file = fileCreate(lodTableFileName)
+    if not file then
+        outputDebugString("Failed to create file", 1)
+        return
+    end
+    fileWrite(file, lodTableStr)
+    fileClose(file)
+    outputDebugString("LOD table written to file: "..lodTableFileName)
 end, false, false)
 
 function pairsByKeys(t)
